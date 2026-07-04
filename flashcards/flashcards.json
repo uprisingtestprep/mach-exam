@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "common_occupational_skills",
+    "front": "What does WHMIS stand for?",
+    "back": "WHMIS stands for Workplace Hazardous Materials Information System. It is Canada's system for labeling chemicals and hazardous products so workers can tell at a glance what a substance is and how to handle it. It lines up with GHS, the Globally Harmonized System used around the world for hazard pictograms and label wording."
+  },
+  {
+    "id": 2,
+    "domain": "common_occupational_skills",
+    "front": "What is a Safety Data Sheet (SDS) and why does every hazardous product need one?",
+    "back": "An SDS is a document that lists a product's ingredients, first aid steps, storage rules, and disposal method. Every hazardous product in a shop must have one on file and available to workers. It lets a machinist quickly find how to safely handle, store, or respond to an accident involving that substance."
+  },
+  {
+    "id": 3,
+    "domain": "common_occupational_skills",
+    "front": "Why is lockout and tagout required before servicing a machine?",
+    "back": "Lockout and tagout isolates a machine's energy source, such as the main electrical disconnect, and locks it off with a personal padlock and a tag naming who locked it and why. No one else may remove that lock. This prevents unexpected startup during maintenance or jam clearing, which is one of the most common causes of serious shop injuries."
+  },
+  {
+    "id": 4,
+    "domain": "common_occupational_skills",
+    "front": "What does PPE stand for and give two examples used in a machine shop.",
+    "back": "PPE stands for personal protective equipment, the required gear that protects the body from shop hazards. Safety glasses with side shields protect eyes from flying chips and coolant splash. Hearing protection guards against sustained high noise near grinders and power saws, and steel toed boots protect feet from dropped stock."
+  },
+  {
+    "id": 5,
+    "domain": "common_occupational_skills",
+    "front": "When must safety glasses be worn in a machine shop?",
+    "back": "Safety glasses with side shields must be worn at all times in the machine shop, not just while actively cutting. Chips and coolant can fly unexpectedly even when a machine is idle nearby. This constant requirement is a basic rule tested on the Red Seal exam."
+  },
+  {
+    "id": 6,
+    "domain": "common_occupational_skills",
+    "front": "Why is hearing protection needed around grinders and power saws?",
+    "back": "These machines produce sustained high noise levels that damage hearing over time. Hearing loss from shop noise builds up slowly and cannot be reversed once it happens. Earplugs or earmuffs are the standard protection used around this kind of equipment."
+  },
+  {
+    "id": 7,
+    "domain": "common_occupational_skills",
+    "front": "What is machine guarding and why should a guard never be removed to speed up a job?",
+    "back": "Machine guarding refers to physical barriers, such as chip guards, belt covers, and interlocked doors, that keep hands and clothing away from moving parts. A guard should never be bypassed to save time, since the seconds saved are not worth losing a finger. Interlocked guards on machines like CNC mills shut the spindle down automatically if the door opens, and defeating that interlock is a serious violation."
+  },
+  {
+    "id": 8,
+    "domain": "common_occupational_skills",
+    "front": "What happens when a CNC mill's interlocked guard door is opened during operation?",
+    "back": "The interlock automatically shuts down the spindle so the moving cutter cannot injure someone reaching in. This is a built in safety feature, not something a worker triggers manually. Defeating or bypassing this interlock is treated as a serious safety violation in the shop."
+  },
+  {
+    "id": 9,
+    "domain": "common_occupational_skills",
+    "front": "What is the correct technique for safe lifting in a machine shop?",
+    "back": "Safe lifting means using the legs, not the back, to lift heavy stock or tooling. The load should be kept close to the body with the back kept straight, and a hoist or a second person should be used when a part is too heavy or awkward for one person. Machine shops handle heavy vises, chucks, and bar stock, so poor lifting technique is a leading cause of shop back injuries."
+  },
+  {
+    "id": 10,
+    "domain": "common_occupational_skills",
+    "front": "Why must oily rags be stored in a closed metal container?",
+    "back": "A pile of solvent soaked rags can ignite on its own through a process called spontaneous combustion, without any outside flame or spark. Storing them in a closed metal container cuts off the air needed for that reaction to build up heat. This is a key fire safety practice around cutting oils and solvents."
+  },
+  {
+    "id": 11,
+    "domain": "common_occupational_skills",
+    "front": "Where are Class B and Class C fire extinguishers placed in a machine shop?",
+    "back": "Class B extinguishers are kept near flammable liquid storage, since they are rated for oil and solvent fires. Class C extinguishers are kept near electrical panels because they are safe to use on live electrical equipment. Every worker should know the location of the nearest extinguisher along with the shop's evacuation route."
+  },
+  {
+    "id": 12,
+    "domain": "common_occupational_skills",
+    "front": "List the five steps of the 5S housekeeping method in order.",
+    "back": "The five steps are sort, set in order, shine, standardize, and sustain. Sort removes anything not needed for the current job, and set in order gives every tool a fixed storage spot. Shine keeps the area clean so leaks or wear are spotted early, standardize uses the same layout shop wide, and sustain makes the habit permanent."
+  },
+  {
+    "id": 13,
+    "domain": "common_occupational_skills",
+    "front": "In the 5S method, what does the 'shine' step accomplish beyond just looking tidy?",
+    "back": "Shine means keeping the machine and work area clean of chips, oil, and debris. This regular cleaning also helps a machinist spot leaks or early wear on the machine before they become bigger problems. A clean machine bay makes small issues visible instead of hidden under grime."
+  },
+  {
+    "id": 14,
+    "domain": "common_occupational_skills",
+    "front": "Why is a cluttered machine bay considered a direct safety hazard, not just messy?",
+    "back": "Loose chips on the floor can cause a worker to slip, and a tangle of extension cords near a coolant puddle creates a shock hazard. Stock leaned against a machine can fall and strike someone walking past. Each of these examples ties a specific piece of clutter to a specific injury risk."
+  },
+  {
+    "id": 15,
+    "domain": "common_occupational_skills",
+    "front": "What is the safety rule for compressed air used to blow chips off a part?",
+    "back": "Compressed air must never be pointed at skin or used to clean clothing. Even at low pressure it can drive debris into the skin or eyes and cause serious injury. It is fine for clearing chips off a part or machine surface, just never aimed at a person."
+  },
+  {
+    "id": 16,
+    "domain": "common_occupational_skills",
+    "front": "What should a worker do around an overhead crane moving a heavy load?",
+    "back": "The worker should know the hand signals used to direct the crane operator, stay clear of the suspended load, and never walk underneath it. Overhead cranes in larger shops move heavy castings and fixtures, and a dropped or swinging load can cause serious injury. This awareness applies even though a machine shop is not usually considered a confined space job site."
+  },
+  {
+    "id": 17,
+    "domain": "common_occupational_skills",
+    "front": "What is a job order (work order) and what does it typically reference?",
+    "back": "A job order is the paperwork that tells a machinist what part to make, how many, and by when. It usually references a drawing number, a material specification, and any special instructions from the customer or supervisor. Reading it carefully before touching a machine prevents wasted material and time from a misread quantity or revision."
+  },
+  {
+    "id": 18,
+    "domain": "common_occupational_skills",
+    "front": "In planning a machining sequence, why do rough operations happen before finishing operations?",
+    "back": "Rough operations remove the most material and happen early in the sequence, while finishing operations that hold tight tolerances happen last. A part that is handled less after finishing keeps its accuracy better. A typical order is facing, rough turning, finish turning, drilling, then tapping."
+  },
+  {
+    "id": 19,
+    "domain": "common_occupational_skills",
+    "front": "What is stock allowance and what happens if a machinist leaves too little of it?",
+    "back": "Stock allowance is extra material left on a workpiece so it can be cleaned up by machining to final size. If too little allowance is left, the part cannot be brought to the correct finished size at all. Too much allowance, on the other hand, wastes time and material removing the extra stock."
+  },
+  {
+    "id": 20,
+    "domain": "common_occupational_skills",
+    "front": "What factors go into estimating how long a machining job will take?",
+    "back": "Time estimating is based on the number of operations, the material's machinability, and the machine's cutting speed. This estimate helps the shop schedule work and give accurate delivery dates to customers. Experienced machinists refine this skill over time by comparing actual job times to their estimates."
+  },
+  {
+    "id": 21,
+    "domain": "common_occupational_skills",
+    "front": "What is machinability and how does it affect a time estimate?",
+    "back": "Machinability is a material's tendency to cut easily and cleanly. Free machining brass and low carbon steel cut quickly with manageable chips, while tool steel and stainless steel cut slower, wear tools out faster, and often need lower feed rates. A machinist who ignores machinability when quoting time will run over on hard materials and under on easy ones."
+  },
+  {
+    "id": 22,
+    "domain": "common_occupational_skills",
+    "front": "Why can setup time be the majority of a job's total time on a short production run?",
+    "back": "Setup includes mounting the workpiece, indicating it in so it runs true, loading the correct tools, and setting offsets. On a one-off job or small batch, these steps can take longer than the actual cutting. A realistic time estimate always accounts for setup separately from the machining cycle."
+  },
+  {
+    "id": 23,
+    "domain": "common_occupational_skills",
+    "front": "Why should a machinist repeat back a verbal instruction from a supervisor before starting work?",
+    "back": "Verbal instructions, such as a change in priority or a quick correction to a dimension, can easily be misheard or misunderstood. Repeating the instruction back confirms both people agree on what was said before any work begins. Written instructions on a job order or drawing note carry the same weight and should never be assumed or guessed at."
+  },
+  {
+    "id": 24,
+    "domain": "common_occupational_skills",
+    "front": "Why should a machinist report a dimension mismatch or excess tool wear right away instead of working around it?",
+    "back": "Clear, prompt reporting keeps supervisors and coworkers informed about part quality and job progress. If a problem is worked around silently instead of reported, a small issue can turn into a scrapped part or a missed deadline. Basic reporting is treated as a core communication duty on the job."
+  },
+  {
+    "id": 25,
+    "domain": "common_occupational_skills",
+    "front": "What does mentoring an apprentice involve for a certified journeyperson?",
+    "back": "Mentoring means demonstrating correct technique, explaining the reasoning behind a setup choice, and supervising an apprentice's work closely enough to catch mistakes before they cause damage or injury. A good mentor also lets the apprentice make small decisions under supervision. Hands on practice under guidance builds real skill faster than only watching."
+  },
+  {
+    "id": 26,
+    "domain": "common_occupational_skills",
+    "front": "What are the three standard orthographic views used on an engineering drawing?",
+    "back": "The three standard views are a front view, a top view, and a side view, each looking at the part from a different direction. Together these views let a machinist picture the full three dimensional shape of a part from a flat piece of paper. Orthographic views are one of the most tested drawing skills on the Red Seal exam."
+  },
+  {
+    "id": 27,
+    "domain": "common_occupational_skills",
+    "front": "What does GD&T stand for and what does a feature control frame represent?",
+    "back": "GD&T stands for Geometric Dimensioning and Tolerancing, a symbol based system that controls the shape, size, and position of features beyond simple linear measurements. Common symbols include flatness, perpendicularity, and position, shown inside a rectangular feature control frame. A machinist needs to recognize the basic symbols and know they define an allowable zone the feature must fall within."
+  },
+  {
+    "id": 28,
+    "domain": "common_occupational_skills",
+    "front": "A dimension is written as 25.00 mm plus or minus 0.05 mm. What is the acceptable measured range?",
+    "back": "The finished feature can measure anywhere from 24.95 mm to 25.05 mm and still pass inspection. This range is called the tolerance, the amount a dimension is allowed to vary from its stated value. Tighter tolerances demand slower cutting speeds, sharper tools, and more careful measurement."
+  },
+  {
+    "id": 29,
+    "domain": "common_occupational_skills",
+    "front": "Why does a tighter tolerance change how a machinist plans a job?",
+    "back": "A tighter tolerance demands slower cutting speeds, sharper tools, and more careful measurement to hold the part within range. Recognizing a tight tolerance early lets a machinist plan the right approach before starting the cut. Missing this early can lead to a part that fails inspection."
+  },
+  {
+    "id": 30,
+    "domain": "common_occupational_skills",
+    "front": "What does a surface finish symbol on a drawing tell a machinist?",
+    "back": "A checkmark shaped symbol with a number inside tells the machinist the maximum roughness allowed on that surface, usually given in micrometers or microinches. A surface that needs to seal against another part or slide against a bearing calls for a finer finish than a plain mounting face. This symbol guides which finishing pass or process is needed."
+  },
+  {
+    "id": 31,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between ferrous and non-ferrous metals?",
+    "back": "Ferrous metals contain iron, such as carbon steel, alloy steel, and cast iron, and most are magnetic and will rust if left unprotected. Non-ferrous metals do not contain iron, such as aluminum, brass, and copper, and they are not magnetic and generally resist corrosion better. Knowing this split helps a machinist pick the right material and handling for a job."
+  },
+  {
+    "id": 32,
+    "domain": "common_occupational_skills",
+    "front": "Why is low carbon steel easy to machine but hard to make into a hardened tool?",
+    "back": "Low carbon steel is soft and easy to machine but cannot be hardened much because it lacks enough carbon content. Medium or high carbon steel, by contrast, can be heat treated to much higher hardness. This is why tools and cutting edges are usually made from higher carbon or alloy steels, not low carbon steel."
+  },
+  {
+    "id": 33,
+    "domain": "common_occupational_skills",
+    "front": "What makes brass a common choice for fittings and valve bodies?",
+    "back": "Brass is a copper and zinc alloy that machines very cleanly and produces good surface finish. It also offers good corrosion resistance, which matters for parts exposed to fluids. These combined properties make it a common choice for fittings and valve bodies."
+  },
+  {
+    "id": 34,
+    "domain": "common_occupational_skills",
+    "front": "What do alloy steels add to plain carbon steel, and why?",
+    "back": "Alloy steels add elements such as chromium or nickel to improve strength, wear resistance, or corrosion resistance. These additions let the steel perform better in demanding applications than plain carbon steel alone. This is a key reason a machinist checks the material callout on a drawing before selecting stock."
+  },
+  {
+    "id": 35,
+    "domain": "common_occupational_skills",
+    "front": "What is annealing and why would a machinist request it before working a part?",
+    "back": "Annealing is a heat treatment that softens a metal by heating it and then cooling it slowly. This makes the material easier to machine or form. A machinist may request an annealed piece of stock when the part needs significant material removal or forming before any hardening step."
+  },
+  {
+    "id": 36,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between hardening and annealing?",
+    "back": "Hardening heats a metal to a specific temperature and then cools it quickly, often by quenching in oil or water, to lock in a hard structure. Annealing instead cools the metal slowly after heating, which softens it. Hardening and annealing are essentially opposite goals achieved through different cooling rates."
+  },
+  {
+    "id": 37,
+    "domain": "common_occupational_skills",
+    "front": "Why is tempering done after hardening a part?",
+    "back": "A part that is only hardened and never tempered can be so brittle it cracks under normal use. Tempering reheats the part to a lower temperature to reduce that brittleness while keeping most of the added hardness. This step is what makes a hardened tool actually usable in the shop."
+  },
+  {
+    "id": 38,
+    "domain": "common_occupational_skills",
+    "front": "What is normalizing and when is it typically used?",
+    "back": "Normalizing is a heat treatment similar to annealing but with air cooling instead of slow furnace cooling. It relieves internal stress and produces a more uniform grain structure. It is commonly used after operations like welding or heavy machining that can leave stress built up in the material."
+  },
+  {
+    "id": 39,
+    "domain": "common_occupational_skills",
+    "front": "What daily checks are part of routine machine maintenance?",
+    "back": "Daily checks include coolant level, way lube level, and listening for unusual noises from the machine. Scheduled tasks such as changing filters and checking belt tension round out routine maintenance. A machinist who skips these checks risks a machine drifting out of accuracy long before it shows up in the parts produced."
+  },
+  {
+    "id": 40,
+    "domain": "common_occupational_skills",
+    "front": "Why can using the wrong lubricant on a machine's ways cause a problem?",
+    "back": "Machines like ways, lead screws, and spindle bearings need the specific lubricant listed in the manufacturer's schedule. Using a general purpose grease where the machine calls for way lubricant can cause the slides to stick or wear faster. Following the correct lubrication schedule protects the machine's ability to hold tolerance."
+  },
+  {
+    "id": 41,
+    "domain": "common_occupational_skills",
+    "front": "What problems does a dull cutting tool cause if it is not sharpened or replaced?",
+    "back": "A dull tool produces poor surface finish, generates more heat, and can push a workpiece out of tolerance. Lathe tool bits and drills are commonly reground on a bench grinder or tool and cutter grinder, following the correct relief and rake angles for the material being cut. Recognizing dullness early protects both part quality and the machine."
+  },
+  {
+    "id": 42,
+    "domain": "common_occupational_skills",
+    "front": "Why does calibration awareness matter for micrometers and other precision instruments?",
+    "back": "A micrometer that has been dropped or used roughly can read incorrectly without any visible damage. A machinist trusting a miscalibrated tool could produce an entire batch of out of tolerance parts without realizing it. Shops keep a calibration schedule and reference gauge blocks so instruments can be checked regularly and pulled from service if they fail."
+  },
+  {
+    "id": 43,
+    "domain": "common_occupational_skills",
+    "front": "About what percentage of the Red Seal interprovincial exam does the Common Occupational Skills block make up?",
+    "back": "This block makes up about 9 percent of the total marks, roughly 12 questions out of 135. Even though that share looks small next to blocks on lathes or milling, its topics resurface inside those other blocks too. A question on a lathe operation might still test PPE knowledge or print reading from this chapter."
+  },
+  {
+    "id": 44,
+    "domain": "common_occupational_skills",
+    "front": "What information does a Safety Data Sheet give about a flammable solvent, and how does WHMIS labeling connect to it?",
+    "back": "The SDS lists the solvent's ingredients, first aid steps, storage rules, and disposal method. The WHMIS pictogram on the drum, such as a flame symbol, gives an at a glance warning before anyone even opens the SDS. Together the pictogram and the SDS let a machinist judge the hazard quickly and then find full handling details if needed."
+  },
+  {
+    "id": 45,
+    "domain": "common_occupational_skills",
+    "front": "Why does real shop work never separate cutting skill from the fundamentals covered in this chapter?",
+    "back": "Safety, work organization, communication, material and print knowledge, and machine upkeep all underlie every cutting operation a machinist performs. A candidate strong in benchwork, lathes, or CNC machining but weak in these fundamentals will still lose marks. These five areas form the foundation that every other Red Seal Machinist exam block builds on."
+  },
+  {
+    "id": 46,
+    "domain": "benchwork",
+    "front": "What is benchwork in the machinist trade?",
+    "back": "Benchwork is the set of hand skills a machinist uses away from the big machines. It covers layout, hand cutting, hand threading, scraping, lapping, deburring, and taking a machine apart to inspect and rebuild it. On the Red Seal exam it is Block B, worth about 8 percent of the test."
+  },
+  {
+    "id": 47,
+    "domain": "benchwork",
+    "front": "What is a surface plate used for in layout work?",
+    "back": "A surface plate is a thick, flat slab of granite or cast iron ground and lapped to a very precise flatness, often within a few thousandths of an inch. Every layout tool is measured up from this flat reference surface. Granite is popular because it resists rust and dents better than cast iron."
+  },
+  {
+    "id": 48,
+    "domain": "benchwork",
+    "front": "What is a scribe?",
+    "back": "A scribe is a pointed hand tool made of hardened steel, similar to a pencil, used to scratch thin, sharp lines onto metal. Because the line is scratched in rather than drawn in ink, it stays visible through oil, coolant, and handling. It is often guided by a straightedge or steel rule."
+  },
+  {
+    "id": 49,
+    "domain": "benchwork",
+    "front": "How does a height gauge work?",
+    "back": "A height gauge sits on a surface plate and has a vertical scale with a sliding scriber attachment. The machinist sets the scriber to an exact height and drags it across the workpiece to scribe a line at that precise distance from the plate. It comes in vernier, dial, and digital versions."
+  },
+  {
+    "id": 50,
+    "domain": "benchwork",
+    "front": "What are dividers used for?",
+    "back": "Dividers look like a geometry compass, with two hardened steel legs and a fixed pivot that can be locked at a set distance. A machinist uses them to scribe circles and arcs and to step off equal spacing along a line, for example marking six equally spaced holes around a bolt circle."
+  },
+  {
+    "id": 51,
+    "domain": "benchwork",
+    "front": "Why do machinists apply layout dye before scribing lines?",
+    "back": "Layout dye, also called machinist blue, is a thin coat of colored liquid brushed onto bare metal before scribing. Once dry, a scribed line cuts through the dye and shows up bright against the dark background. Without dye, a scribed line on shiny raw metal is very hard to see under shop lighting."
+  },
+  {
+    "id": 52,
+    "domain": "benchwork",
+    "front": "What can a combination square be used for?",
+    "back": "A combination square has a ruled blade and interchangeable heads, and it can check 90 degree and 45 degree angles, find the center of round stock, and act as a depth gauge. It is one of the most versatile and most tested layout tools because one set of parts does several jobs."
+  },
+  {
+    "id": 53,
+    "domain": "benchwork",
+    "front": "What is the difference between a prick punch and a center punch?",
+    "back": "A prick punch makes a light, fine mark used to check a layout position for accuracy. A center punch then enlarges that mark into a proper dimple so a drill bit does not wander off the scribed intersection point when drilling begins."
+  },
+  {
+    "id": 54,
+    "domain": "benchwork",
+    "front": "What is the difference between a single cut file and a double cut file?",
+    "back": "A single cut file has one set of parallel teeth and leaves a smoother finish, so it is often used for finishing work. A double cut file has two crossing sets of teeth and removes metal faster, so it is often used for rough shaping."
+  },
+  {
+    "id": 55,
+    "domain": "benchwork",
+    "front": "How are files classified besides their cut?",
+    "back": "Files are also classified by shape, such as flat, half round, round, triangular, and square, and by coarseness, ranging from rough down to dead smooth. Choosing the right shape and coarseness for the job affects both speed and finish quality."
+  },
+  {
+    "id": 56,
+    "domain": "benchwork",
+    "front": "How is a hacksaw blade rated, and why does it matter?",
+    "back": "A hacksaw blade is rated by teeth per inch, or TPI. A low TPI blade, such as 14 teeth per inch, cuts thick solid stock faster. A high TPI blade, such as 32 teeth per inch, is needed on thin wall tubing or sheet stock so at least two or three teeth stay in contact with the material, which prevents snagging and stripped teeth."
+  },
+  {
+    "id": 57,
+    "domain": "benchwork",
+    "front": "What is a cold chisel used for?",
+    "back": "A cold chisel is a hardened steel bar with a sharpened edge, driven by a hammer, used to cut or shear metal that is too tough or awkward for other tools. Examples include chipping off a rusted rivet head or splitting a stuck nut. Chisels come in flat, cape, round nose, and diamond point shapes for different cutting jobs."
+  },
+  {
+    "id": 58,
+    "domain": "benchwork",
+    "front": "What job does a reamer do, and what rule must never be broken with a hand reamer?",
+    "back": "A reamer is a precision tool used to enlarge and finish a drilled hole to an exact, smooth diameter, often within a thousandth of an inch. Hand reamers have a square end for a tap wrench and should only ever be turned in the cutting direction. Backing up a reamer can dull or chip its cutting edges."
+  },
+  {
+    "id": 59,
+    "domain": "benchwork",
+    "front": "What is a center drill used for?",
+    "back": "A center drill starts an accurate, self-centering pilot hole before the full size drill bit is used. Its short, stiff point resists wandering, which is especially useful on curved or angled surfaces where a normal twist drill would skate sideways before it bites in."
+  },
+  {
+    "id": 60,
+    "domain": "benchwork",
+    "front": "Why is deburring important after drilling or cutting?",
+    "back": "Deburring removes the sharp, rough edge, called a burr, left behind after cutting, drilling, or filing. Burrs are dangerous to bare hands and can throw off measurements or prevent two parts from seating flush together. Common tools include a deburring blade, a file, and a hand turned countersink bit."
+  },
+  {
+    "id": 61,
+    "domain": "benchwork",
+    "front": "What is the difference between internal and external threading, and which tool cuts each?",
+    "back": "Internal threads are the kind cut inside a hole, and they are cut with a tap. External threads are the kind cut on the outside of a rod or bolt, and they are cut with a die. Both processes are forms of hand threading done without a lathe or tapping machine."
+  },
+  {
+    "id": 62,
+    "domain": "benchwork",
+    "front": "What are the three common types of taps, and when is each used?",
+    "back": "A taper tap has a long, gradual lead-in taper and starts a thread easily in a blind or through hole. A plug tap has a shorter taper and is used partway through the job or in a shallower hole. A bottoming tap has almost no taper and cuts threads as close as possible to the bottom of a blind hole."
+  },
+  {
+    "id": 63,
+    "domain": "benchwork",
+    "front": "What is tap drill size, and why does getting it wrong matter?",
+    "back": "Tap drill size is the diameter of the hole drilled before tapping, smaller than the thread's major diameter but large enough for the tap to cut without breaking. Drilling too small can snap a tap off inside the hole, and drilling too large leaves weak, shallow threads. Machinists usually look up the correct size on a reference chart."
+  },
+  {
+    "id": 64,
+    "domain": "benchwork",
+    "front": "What shop rule of thumb estimates tap drill diameter for standard 75 percent thread engagement?",
+    "back": "A common rule of thumb is that the tap drill diameter equals the major diameter minus the pitch. Pitch is the distance between adjacent thread peaks, or in inch based threads it relates to threads per inch, abbreviated TPI. Most machinists still confirm the exact figure on a standard chart rather than calculating from scratch."
+  },
+  {
+    "id": 65,
+    "domain": "benchwork",
+    "front": "What is a die, and how is it turned?",
+    "back": "A die is the external thread cutting counterpart to a tap. It is a hardened, threaded ring with cutting edges, turned by a die stock, which is a handle that holds the die and applies even turning force. The rod must first be turned or cut down to the correct outside diameter, just as a hole must be drilled to the correct tap drill size before tapping."
+  },
+  {
+    "id": 66,
+    "domain": "benchwork",
+    "front": "Why should cutting oil be used during tapping and die work?",
+    "back": "Cutting oil, or thread cutting fluid, reduces friction, carries away the small metal chips produced during cutting, and helps prevent the tap or die from binding or breaking. It should be used throughout both tapping and die work, not just at the start."
+  },
+  {
+    "id": 67,
+    "domain": "benchwork",
+    "front": "What is the tap and break method?",
+    "back": "The tap and break method is a technique used with both taps and dies where the machinist turns forward about half a turn to a full turn, then backs off a quarter turn to break the chip free, then continues forward again. This back and forth motion prevents chips from packing into the flutes and snapping the tool."
+  },
+  {
+    "id": 68,
+    "domain": "benchwork",
+    "front": "What is the difference between UNC and UNF thread series?",
+    "back": "UNC and UNF are inch based thread series designations, where UNC stands for a coarse thread and UNF stands for a fine thread. Mixing up UNC and UNF, or mixing metric and inch fasteners, is a common real world mistake the exam expects a machinist to recognize and avoid."
+  },
+  {
+    "id": 69,
+    "domain": "benchwork",
+    "front": "How are metric threads designated, using M10 by 1.5 as an example?",
+    "back": "Metric threads are designated by nominal diameter in millimeters followed by pitch in millimeters. In M10 by 1.5, the thread has a 10 millimeter nominal diameter and a 1.5 millimeter pitch, meaning the distance between adjacent thread peaks is 1.5 millimeters."
+  },
+  {
+    "id": 70,
+    "domain": "benchwork",
+    "front": "What is scraping, and what tool performs it?",
+    "back": "Scraping is a hand fitting process that removes very small, high spots from a metal surface so it sits perfectly flat or fits tightly against a mating surface. A scraper, a hardened hand tool with a sharp edge, is pushed or pulled across the work in short controlled strokes, shaving off only a few tenths of a thousandth of an inch at a time."
+  },
+  {
+    "id": 71,
+    "domain": "benchwork",
+    "front": "How does bluing check the accuracy of a scraped surface?",
+    "back": "Marking blue, an oil based dye similar to layout dye, is spread on a reference surface plate or master straightedge. The workpiece is rubbed against it, and the blue transfers only onto the high spots. The machinist scrapes those spots, reapplies blue, and repeats until the transfer pattern shows an even scatter across the whole surface."
+  },
+  {
+    "id": 72,
+    "domain": "benchwork",
+    "front": "Why is scraping still used on precision machine ways instead of just grinding?",
+    "back": "A scraped surface holds a thin film of lubricating oil in its many tiny scraped pockets far better than a perfectly smooth ground surface. This is why scraping is still used on precision surfaces like a lathe bed or a mill table, even in a shop full of CNC equipment."
+  },
+  {
+    "id": 73,
+    "domain": "benchwork",
+    "front": "What is lapping, and how does it differ from scraping?",
+    "back": "Lapping is a finishing process using a lap tool and a fine abrasive compound to bring a surface to an extremely accurate size and smooth finish. Unlike scraping, which removes high spots one at a time by eye and feel, lapping removes a thin, even layer across the whole surface using abrasive grains charged into a soft lap material."
+  },
+  {
+    "id": 74,
+    "domain": "benchwork",
+    "front": "Give an example of a precision fit finished by lapping.",
+    "back": "Lapping is often the last step used to fit a valve to its seat, match a pin to a hole with a very tight sliding fit, or bring gauge blocks to their exact certified size. The machinist works from a coarser grit down to a finer grit for the final pass."
+  },
+  {
+    "id": 75,
+    "domain": "benchwork",
+    "front": "Why must a part be cleaned thoroughly between lapping grit changes?",
+    "back": "Cleaning between grit changes prevents coarse abrasive grains from contaminating the finer finishing stage. If coarse grains carry over, they will scratch the surface during what is supposed to be the fine finishing pass, ruining the accuracy of the work."
+  },
+  {
+    "id": 76,
+    "domain": "benchwork",
+    "front": "What is the general order of steps in refurbishing a component?",
+    "back": "Refurbishing a used machine part or assembly follows disassembly, inspection, repair or replacement, reassembly, and a final alignment check. This logical order applies to a gearbox, a pump, or a fixture."
+  },
+  {
+    "id": 77,
+    "domain": "benchwork",
+    "front": "Why should a machinist plan disassembly before removing the first bolt?",
+    "back": "A careful machinist tags or lays out parts in the order they were removed, often in a straight line on a clean bench matching the disassembly sequence, so reassembly can follow the same steps in reverse. Photographs, sketches, or written notes of shims, spacers, and orientation prevent costly reassembly mistakes."
+  },
+  {
+    "id": 78,
+    "domain": "benchwork",
+    "front": "What is a witness mark, and why does it matter during disassembly?",
+    "back": "A witness mark is an alignment mark scribed onto mating parts by the original assembler, showing how two parts were oriented relative to each other, such as how a pulley was indexed on a shaft. If no marks exist, the machinist should scribe new ones before separating the parts."
+  },
+  {
+    "id": 79,
+    "domain": "benchwork",
+    "front": "What is the difference between scoring and pitting on a worn part?",
+    "back": "Scoring appears as visible scratches or grooves cut into a bearing surface, usually caused by dirt or metal debris trapped between moving parts. Pitting appears as small craters, often from corrosion or repeated impact loading, such as on gear teeth or bearing races."
+  },
+  {
+    "id": 80,
+    "domain": "benchwork",
+    "front": "What is galling, and what usually causes it?",
+    "back": "Galling is a severe form of surface damage where friction and pressure actually tear and transfer metal from one surface to another. It is often seen on parts that were run without enough lubrication, and it is more destructive than ordinary scoring or pitting."
+  },
+  {
+    "id": 81,
+    "domain": "benchwork",
+    "front": "Why should a worn shaft be measured at several points along its length and circumference?",
+    "back": "A micrometer check at several points reveals uneven wear that would otherwise be missed. Uneven wear can show up as a taper along the length or an out of round condition around the circumference, rather than a simple uniform undersize."
+  },
+  {
+    "id": 82,
+    "domain": "benchwork",
+    "front": "What tools are used to check a bearing bore for wear?",
+    "back": "Bearing bores are checked with a bore gauge or a telescoping gauge combined with a micrometer. The actual reading is compared against the original manufacturer specification to see how much clearance has developed since the part was new."
+  },
+  {
+    "id": 83,
+    "domain": "benchwork",
+    "front": "What three options does a machinist choose between after finding a damaged part?",
+    "back": "The machinist can fit a genuine replacement part, machine a new part to match the original dimensions, or recondition the existing part, for example resurfacing a bearing journal and fitting an oversized bearing. The choice depends on wear severity, cost and availability of parts, and how critical the fit is to accuracy."
+  },
+  {
+    "id": 84,
+    "domain": "benchwork",
+    "front": "Why should bolts on a flange or cover be tightened in a star or cross pattern?",
+    "back": "Tightening fasteners to the correct torque value in a star or cross pattern during reassembly spreads clamping force evenly. This avoids warping a gasket surface or clamping a part unevenly, which could cause leaks or misalignment."
+  },
+  {
+    "id": 85,
+    "domain": "benchwork",
+    "front": "What should a final alignment check confirm before a rebuilt assembly goes back into service?",
+    "back": "A final alignment check might include checking shaft runout with a dial indicator, confirming a belt or chain runs true and parallel, verifying end play or backlash is within specification, and running the assembly by hand before powering it up. Skipping this step risks a rebuild that looks correct but fails within minutes on the shop floor."
+  },
+  {
+    "id": 86,
+    "domain": "power_saws",
+    "front": "Horizontal band saw",
+    "back": "The blade runs in a continuous loop around two wheels, and the saw head pivots down through the stock like a hinge. It is used for straight cutoff work on bar stock, tubing, and structural shapes. It is efficient for high volume straight cuts and handles a wide range of material shapes."
+  },
+  {
+    "id": 87,
+    "domain": "power_saws",
+    "front": "Vertical band saw",
+    "back": "The blade stays fixed in a vertical position while the operator feeds the workpiece into it by hand or with a table. Because the blade does not move in an arc, it can cut curves, contours, and irregular shapes as well as straight lines. It is the only one of the four main saw types suited to contour work."
+  },
+  {
+    "id": 88,
+    "domain": "power_saws",
+    "front": "Hacksaw machine (power hacksaw)",
+    "back": "Uses a straight reciprocating blade that moves back and forth, cutting only on the forward stroke and lifting slightly on the return stroke to reduce wear. It is older technology than band saws but is still used for heavy, slow cutoff work on large sections."
+  },
+  {
+    "id": 89,
+    "domain": "power_saws",
+    "front": "Circular cold saw",
+    "back": "Uses a round, flat blade with teeth around the outer edge, spinning at low speed with high torque. It produces a very square, clean cut with minimal burr and is often the fastest, most accurate choice for cutting solid round or square bar stock to precise lengths."
+  },
+  {
+    "id": 90,
+    "domain": "power_saws",
+    "front": "Why does a shop cutting the same bar length dozens of times per shift usually pick a cold saw over a vertical band saw?",
+    "back": "A cold saw gives speed and repeatable accuracy for high volume identical cuts. A vertical band saw is better suited to one-off, flexible work like a toolroom making prototype parts, so it is not the best fit for repetitive production cutoff."
+  },
+  {
+    "id": 91,
+    "domain": "power_saws",
+    "front": "TPI (teeth per inch)",
+    "back": "Tooth pitch describes how many teeth are packed into each inch of blade length, expressed as TPI. Low TPI blades, such as 4 or 6, have large widely spaced teeth for thick material and fast removal. High TPI blades, such as 14 or 18, have small closely spaced teeth for thin material like tubing or sheet."
+  },
+  {
+    "id": 92,
+    "domain": "power_saws",
+    "front": "Three tooth rule for blade pitch",
+    "back": "At least three teeth should be in contact with the material at all times during the cut. If the material is too thin for the pitch, teeth can straddle the wall and strip off. If the material is too thick for a fine pitch blade, the gullets clog with chips and the blade overheats."
+  },
+  {
+    "id": 93,
+    "domain": "power_saws",
+    "front": "Gullet",
+    "back": "A gullet is the gap between teeth on a saw blade that carries away chips during the cut. If the pitch is too fine for the material thickness, gullets clog with metal chips and the blade overheats, so pitch must match the thickness of the section being cut."
+  },
+  {
+    "id": 94,
+    "domain": "power_saws",
+    "front": "Variable pitch blade",
+    "back": "A variable pitch blade has tooth spacing that changes gradually along the blade length instead of staying constant. This reduces the harsh vibration and noise that happens when every tooth in a constant pitch blade strikes the material at the same rhythm, making it a good general purpose choice."
+  },
+  {
+    "id": 95,
+    "domain": "power_saws",
+    "front": "High speed steel blade vs bi-metal blade",
+    "back": "High speed steel blades are tough and affordable but wear faster on hard alloys. Bi-metal blades combine a flexible spring steel backing with a hard high speed steel or cobalt edge welded onto the teeth, giving flex resistance along with a hard cutting edge."
+  },
+  {
+    "id": 96,
+    "domain": "power_saws",
+    "front": "Carbide tipped blade",
+    "back": "A carbide tipped blade holds an edge far longer on abrasive or hardened material than high speed steel or bi-metal blades. It costs more and is less tolerant of shock or misalignment, so the choice depends on the material and how many parts are being run."
+  },
+  {
+    "id": 97,
+    "domain": "power_saws",
+    "front": "Tooth set / kerf",
+    "back": "Tooth set means individual teeth are bent slightly left and right, or ground in a wavy pattern, so the kerf, which is the width of material removed by the blade, is wider than the blade body. Without set, the blade body would rub the cut walls and bind."
+  },
+  {
+    "id": 98,
+    "domain": "power_saws",
+    "front": "Raker set vs wavy set",
+    "back": "Raker set has one tooth pointing straight while the next two alternate left and right. Wavy set is common on fine pitch blades used for thin stock. Both patterns create clearance so the blade body does not rub against the cut walls."
+  },
+  {
+    "id": 99,
+    "domain": "power_saws",
+    "front": "Blade tension",
+    "back": "Tension refers to how tightly the blade is stretched between the drive wheels. Too little tension lets the blade wander and produces a crooked cut. Too much tension stresses the blade and can crack it at the tooth root or snap it outright. Most saws have a tension gauge or scale to guide the setting."
+  },
+  {
+    "id": 100,
+    "domain": "power_saws",
+    "front": "Blade tracking",
+    "back": "Tracking means adjusting the guide wheels or rollers so the blade runs centered and flat as it travels around the saw wheels, neither climbing off the front edge nor riding too far back on the wheel crown. It is checked whenever a new blade is installed, usually by rotating the wheels by hand before running under power."
+  },
+  {
+    "id": 101,
+    "domain": "power_saws",
+    "front": "What happens to a saw that is out of track?",
+    "back": "A saw that is out of track wears blades unevenly and can throw a blade off the wheels entirely. Tracking should be adjusted every time a new blade is installed, checked by slowly rotating the wheels by hand while watching blade position before powering up."
+  },
+  {
+    "id": 102,
+    "domain": "power_saws",
+    "front": "Guide blocks / roller guides",
+    "back": "Guide blocks or roller guides sit close to the blade on either side of the cutting zone and keep the blade from twisting or deflecting sideways during the cut. They should be adjusted almost touching but not pinching the blade, and repositioned whenever the blade width changes. Worn guides are a common cause of crooked cuts."
+  },
+  {
+    "id": 103,
+    "domain": "power_saws",
+    "front": "What two jobs does coolant do on a power saw?",
+    "back": "Coolant carries away heat generated by the cutting action and flushes chips out of the gullets so they do not pack and clog. Without coolant, both the blade and the workpiece heat up quickly, dulling teeth faster and possibly distorting softer materials."
+  },
+  {
+    "id": 104,
+    "domain": "power_saws",
+    "front": "Soluble oil coolant",
+    "back": "Soluble oil coolant is an oil concentrate mixed with water to form a milky emulsion. It is the standard choice for most ferrous cutting on band saws and cold saws since it cools well, provides some lubrication, and is affordable for continuous use."
+  },
+  {
+    "id": 105,
+    "domain": "power_saws",
+    "front": "Straight cutting oil",
+    "back": "Straight cutting oil is used without water dilution and is chosen for harder or more abrasive alloys where extra lubrication reduces blade wear. It does not cool as efficiently as a water based coolant like soluble oil."
+  },
+  {
+    "id": 106,
+    "domain": "power_saws",
+    "front": "Why is cast iron usually cut dry, with no coolant?",
+    "back": "Cast iron's natural graphite content acts as a built in lubricant during cutting. Adding liquid coolant can mix with the fine cast iron dust to form an abrasive paste that damages the blade and guides, so it is typically cut dry."
+  },
+  {
+    "id": 107,
+    "domain": "power_saws",
+    "front": "Work holding on a horizontal band saw or hacksaw machine",
+    "back": "A fixed jaw and a moving jaw, operated by a hand wheel or hydraulic cylinder, clamp the stock from both sides. The moving jaw should always close fully onto solid material rather than the very end of a short offcut, or the clamping force will not hold securely."
+  },
+  {
+    "id": 108,
+    "domain": "power_saws",
+    "front": "Why does round stock need a V-block or V-jaw vice?",
+    "back": "A round bar can roll under the pressure of the blade if it is not seated properly in a flat vice. V-blocks or a vice with a V-shaped jaw insert cradle round stock and stop it from rotating during the cut."
+  },
+  {
+    "id": 109,
+    "domain": "power_saws",
+    "front": "Feed rate vs cutting speed",
+    "back": "Feed rate is how fast the blade advances into the material, while cutting speed is how fast the blade itself travels, usually measured in surface feet per minute. Both depend on the material being cut and the thickness of the section, with harder or thicker material needing slower settings."
+  },
+  {
+    "id": 110,
+    "domain": "power_saws",
+    "front": "Why do tool steels and stainless steels need reduced speed and lighter feed?",
+    "back": "These materials are tougher and more heat sensitive than mild steel. Excess heat and pressure can work harden the surface, changing the metal's structure and making it even harder to cut on the next pass, so slower speed and lighter feed are needed."
+  },
+  {
+    "id": 111,
+    "domain": "power_saws",
+    "front": "Miter (angle) cut setup",
+    "back": "An angle cut is made by pivoting the saw head or the vice to a marked angle on a protractor scale before clamping, with 45 degrees common for miter joints. The material must be re-clamped securely at the new angle since angled cuts put uneven side loads on the blade compared to a square cut."
+  },
+  {
+    "id": 112,
+    "domain": "power_saws",
+    "front": "Cutting tight curves on a vertical band saw",
+    "back": "Tight curves require a narrower blade since a wide blade cannot flex through a small radius without binding or breaking. The operator should feed steadily without forcing the material and back the blade out along the same path it entered rather than twisting it sideways under load."
+  },
+  {
+    "id": 113,
+    "domain": "power_saws",
+    "front": "Internal cutout on a vertical band saw",
+    "back": "The blade must first be broken and rejoined, or a starter hole must be drilled through the workpiece so the blade can be threaded through it. Once rejoined by welding it back into a loop or threaded through the hole, the guides are reset and the internal cut proceeds like any other contour cut."
+  },
+  {
+    "id": 114,
+    "domain": "power_saws",
+    "front": "Signs of a dull or damaged saw blade",
+    "back": "Signs include a burning smell, discolored chips, excess vibration, or a cut that drifts off the marked line. Catching these signs early and swapping the blade saves both time and material compared to pushing a worn blade through a full shift of cutting."
+  },
+  {
+    "id": 115,
+    "domain": "power_saws",
+    "front": "Safe chip removal and blade guard rules on a power saw",
+    "back": "Chips should never be cleared by hand while a blade is moving or coasting to a stop, only with a brush or hook tool once the blade has fully stopped. Blade guards must be adjusted close to the material before starting any cut, since a gap of exposed blade can catch clothing, gloves, or fingers."
+  },
+  {
+    "id": 116,
+    "domain": "drill_presses",
+    "front": "What is a bench drill press best suited for?",
+    "back": "A bench drill press is the smallest common type and sits on a workbench or stand. It is used for light duty work such as small parts and thin sheet stock. Its size limits both the drill diameter it can hold and the spindle stroke depth."
+  },
+  {
+    "id": 117,
+    "domain": "drill_presses",
+    "front": "Why are floor drill presses the standard machine in most shops?",
+    "back": "A floor drill press stands on its own column directly on the shop floor. It offers longer spindle travel, more table adjustment range, and a heavier frame that resists vibration. This lets it handle a wider range of part sizes and heavier cutting loads than a bench model."
+  },
+  {
+    "id": 118,
+    "domain": "drill_presses",
+    "front": "How does a radial drill press differ from a bench or floor model?",
+    "back": "On a radial drill press the arm can swing and slide along the column so the spindle moves to the work instead of the work moving under a fixed spindle. This suits large, heavy, or awkward parts like castings or weldments. The operator locks the arm and head at each hole location rather than reclamping the part."
+  },
+  {
+    "id": 119,
+    "domain": "drill_presses",
+    "front": "Chuck versus Morse taper shank, what is the practical difference?",
+    "back": "A drill chuck holds straight shank drills and is tightened with a chuck key or by hand on keyless models. Larger drills often use a Morse taper shank that fits directly into the spindle nose or a sleeve. The taper connection is more rigid than a chuck for larger diameters."
+  },
+  {
+    "id": 120,
+    "domain": "drill_presses",
+    "front": "What is the most common workholding device on a drill press?",
+    "back": "The drill vise is the most common holding device. It clamps the workpiece between two jaws tightened with a screw. The vise must be aligned square to the table, and for angled holes it is tilted and locked using an angle plate or a vise base with a protractor scale."
+  },
+  {
+    "id": 121,
+    "domain": "drill_presses",
+    "front": "When would a machinist use strap clamps instead of a vise?",
+    "back": "Clamps are used when a part is too large, too oddly shaped, or too thin walled for a vise. Step clamps, strap clamps, and toe clamps bolt to the table T-slots and press the part down from above. The bolt should sit close to the work, and the packing block under the far end should match the part height so the clamping force stays level."
+  },
+  {
+    "id": 122,
+    "domain": "drill_presses",
+    "front": "What job does a V-block do on a drill press?",
+    "back": "A V-block holds round stock such as shafts and pins so a hole can be drilled on center or at a controlled angle. The V-shaped groove cradles the round part on two line contacts, which centers it automatically. It is often paired with a clamp to stop the round part from rotating as the drill bites in."
+  },
+  {
+    "id": 123,
+    "domain": "drill_presses",
+    "front": "Drill jig versus fixture, what is the key difference?",
+    "back": "A drill jig usually includes hardened bushings that guide the drill directly to the correct hole location, so the operator does not have to lay out and center punch each part. A fixture locates and clamps the part in a fixed, repeatable position but may not include bushings. Both save time and improve accuracy on production runs."
+  },
+  {
+    "id": 124,
+    "domain": "drill_presses",
+    "front": "What advantage does a swivel base vise give over a plain vise?",
+    "back": "A plain vise bolts directly to the table and gives the most rigid clamping, which suits heavier cuts and larger drills. A swivel base vise adds a round turntable under the jaws marked with a degree scale. This lets the operator rotate the work to a specific angle without needing a separate angle plate."
+  },
+  {
+    "id": 125,
+    "domain": "drill_presses",
+    "front": "What are parallels used for in a drill vise setup?",
+    "back": "Parallels are hardened steel bars placed under a workpiece inside a vise to raise it off the vise base. They keep the underside of the part from being marked and protect the drill from hitting the vise body on a through hole. The machinist should confirm the part sits flat on the parallels before tightening, since a rocking part produces an inaccurate hole."
+  },
+  {
+    "id": 126,
+    "domain": "drill_presses",
+    "front": "Why should the drill press table be checked before starting a job?",
+    "back": "The table can be raised, lowered, and rotated around the column, and some tables also tilt for angled holes. Chips or burrs trapped under a vise or fixture will throw off the squareness of the setup. Checking the table and fixture for cleanliness first prevents an inaccurate hole location."
+  },
+  {
+    "id": 127,
+    "domain": "drill_presses",
+    "front": "What are the flutes of a twist drill and what do they do?",
+    "back": "Flutes are the helical grooves that spiral up the body of a twist drill. They carry chips away from the cutting edge and let coolant reach the tip. Standard twist drills are made from high speed steel or cobalt alloy, and some carry a titanium nitride coating for longer tool life."
+  },
+  {
+    "id": 128,
+    "domain": "drill_presses",
+    "front": "118 degree versus 135 degree drill point angle, when is each used?",
+    "back": "A 118 degree point angle is general purpose and works well in mild steel, aluminum, and most common shop materials. A 135 degree point angle is flatter and used on harder materials or less rigid machines. The flatter angle centers the drill faster and reduces wander before it bites in."
+  },
+  {
+    "id": 129,
+    "domain": "drill_presses",
+    "front": "What are the lip and the web of a drill point?",
+    "back": "The lip is the actual cutting edge of the drill point. The web is the solid center core running up the middle of the drill body. As a drill is reground many times the web thickens near the shank, which is why a thinned or split point is often specified for better centering and less thrust force."
+  },
+  {
+    "id": 130,
+    "domain": "drill_presses",
+    "front": "When is a parabolic flute drill the right choice?",
+    "back": "A parabolic flute drill has a wider, deeper flute shape for faster chip evacuation. This suits deep hole drilling because it clears long stringy chips before they pack into the flute and jam the drill. It reduces the risk of chip packing on holes that go much deeper than they are wide."
+  },
+  {
+    "id": 131,
+    "domain": "drill_presses",
+    "front": "Why choose a slow spiral drill for brass?",
+    "back": "A slow spiral drill has a shallower flute angle than a standard twist drill. It suits brass and other soft materials where the chip breaks naturally on its own. A deep flute is not required since the chip does not need much room to curl before breaking."
+  },
+  {
+    "id": 132,
+    "domain": "drill_presses",
+    "front": "What is cutting speed and why does it matter for drill press rpm?",
+    "back": "Cutting speed, expressed in surface feet per minute, is how fast the outer edge of the drill point moves through the material. Harder materials like tool steel or stainless steel need slower cutting speeds to avoid overheating the edge, while softer materials like aluminum allow much higher speeds. Matching the correct speed to the material protects the cutting edge."
+  },
+  {
+    "id": 133,
+    "domain": "drill_presses",
+    "front": "Give the shop formula for converting cutting speed to spindle rpm.",
+    "back": "The shop approximation is RPM equals cutting speed times 4 divided by the drill diameter in inches. As drill diameter increases for the same material, the required rpm goes down. This is because a larger diameter covers more surface distance per revolution at the same rotational speed."
+  },
+  {
+    "id": 134,
+    "domain": "drill_presses",
+    "front": "What happens if drill feed rate is set too light or too heavy?",
+    "back": "Feed rate is how fast the drill advances per revolution, usually in thousandths of an inch. Feed that is too light causes the drill to rub instead of cut, which generates heat and dulls the edge quickly. Feed that is too heavy risks breaking the drill or tearing the hole."
+  },
+  {
+    "id": 135,
+    "domain": "drill_presses",
+    "front": "Why is cast iron typically drilled dry, without coolant?",
+    "back": "Coolant normally cools the edge, lubricates the chip, and flushes chips from the hole. Cast iron chips are already brittle and short, so coolant is not needed for chip control. Coolant can actually cause the fine graphite dust to form a paste that clogs the flutes."
+  },
+  {
+    "id": 136,
+    "domain": "drill_presses",
+    "front": "Why drill a pilot hole before a large diameter finish hole?",
+    "back": "A pilot hole is a smaller diameter hole drilled first on larger holes. It removes material from the center of the cut before the larger drill point arrives, since the wide dead center area of a large drill has no true cutting action. This reduces the force needed and helps the larger drill start on location."
+  },
+  {
+    "id": 137,
+    "domain": "drill_presses",
+    "front": "What should the operator do as a drill breaks through the back of a through hole?",
+    "back": "The operator should ease off the feed as the drill breaks through the back side of the material. The flutes lose support at that point and can grab and pull suddenly. Easing the feed near breakthrough prevents a sudden grab that can snap the drill or damage the part."
+  },
+  {
+    "id": 138,
+    "domain": "drill_presses",
+    "front": "What is spot facing and when is it used?",
+    "back": "Spot facing creates a small flat, smooth circular surface around the top of a hole so a bolt head or washer sits flush and square. A spot facing tool looks similar to a counterbore but removes only a shallow amount of material. This is common on castings and weldments where the raw surface is not flat."
+  },
+  {
+    "id": 139,
+    "domain": "drill_presses",
+    "front": "What angle should a countersink match and why?",
+    "back": "Countersinking cuts a cone shaped recess so a flat head screw sits flush with or below the surface. The countersink tool commonly matches an 82 degree or 90 degree included angle to fit the screw head. A mismatched angle leaves the screw head proud of the surface or sitting too deep with only edge contact."
+  },
+  {
+    "id": 140,
+    "domain": "drill_presses",
+    "front": "How does a counterbore tool stay centered in the hole?",
+    "back": "Counterboring cuts a flat bottomed, larger diameter recess so a socket head cap screw sits below the surface with full flat contact. A counterbore tool often uses a pilot, a smaller diameter guide on the tip, that rides in the previously drilled hole to keep it centered. Depth is set with the quill depth stop and checked with a depth micrometer or rule."
+  },
+  {
+    "id": 141,
+    "domain": "drill_presses",
+    "front": "How much stock does reaming typically remove, and why does that matter?",
+    "back": "A machine reamer typically removes between 0.005 and 0.015 inch of stock. The hole must be drilled undersized by that amount before reaming so the reamer has the correct allowance to finish the diameter. This leaves a precise diameter and a smoother surface finish than drilling alone produces."
+  },
+  {
+    "id": 142,
+    "domain": "drill_presses",
+    "front": "How do reaming speed and feed compare to drilling the same diameter?",
+    "back": "Reaming speed is usually run at about half the rpm used for drilling the same diameter. The feed rate for reaming is often heavier than for drilling. This is because the reamer is finishing a hole rather than removing bulk material."
+  },
+  {
+    "id": 143,
+    "domain": "drill_presses",
+    "front": "Why is a tapping attachment used for tapping on a drill press?",
+    "back": "A drill press spindle does not reverse or synchronize feed with rotation on its own. A tapping attachment, sometimes called a floating tapping head, lets the tap be driven by the spindle while floating axially. This allows the tap to follow its own thread lead without the operator forcing the feed."
+  },
+  {
+    "id": 144,
+    "domain": "drill_presses",
+    "front": "Why is choosing the correct tap drill size so critical?",
+    "back": "The tap drill must leave enough material for the thread to form the proper percentage of thread engagement, commonly around 75 percent for most general work. A tap drill chart lists the correct diameter for each thread size and pitch. Using the wrong tap drill is one of the most common causes of broken taps and stripped threads."
+  },
+  {
+    "id": 145,
+    "domain": "drill_presses",
+    "front": "Why is cutting fluid especially important during tapping?",
+    "back": "The tap is engaged in the hole on all sides at once, so heat and friction build up quickly. A dedicated tapping fluid or cutting oil reduces the torque needed to turn the tap. It also helps prevent the tap from seizing or snapping off inside the hole, which is difficult and time consuming to remove."
+  },
+  {
+    "id": 146,
+    "domain": "drill_presses",
+    "front": "Why must burrs be removed after drilling, reaming, or tapping?",
+    "back": "A burr is the small ridge of displaced material left at the edge of a hole. It can interfere with mating parts, injure hands during handling, or trap dirt and swarf. A deburring tool, a hand held countersink, or a file can break the sharp edge without changing the finished hole diameter."
+  },
+  {
+    "id": 147,
+    "domain": "drill_presses",
+    "front": "What causes a drill to walk or wander before it bites in?",
+    "back": "Drill walking happens when the drill point does not start exactly on center and instead skates across the surface. Causes include a missing or shallow center punch mark, an unsupported or curved starting surface, excessive point angle for the material, or a dull drill with unequal lip lengths."
+  },
+  {
+    "id": 148,
+    "domain": "drill_presses",
+    "front": "What produces an oversize or bell mouthed hole?",
+    "back": "This defect usually happens when the drill is not properly sharpened or when the two cutting lips are unequal in length or angle. It can also happen when the spindle has excess play from worn bearings or a loose quill. An unequal ground drill removes more material with one lip, forcing the drill to wobble around a larger circle than its actual diameter."
+  },
+  {
+    "id": 149,
+    "domain": "drill_presses",
+    "front": "What are common causes of a work piece spinning in the vise during drilling?",
+    "back": "This can happen when the vise jaws are not tightened enough or when the part has a round or smooth surface that gives the jaws nothing to grip. It can also happen when the drill grabs suddenly at breakthrough and the torque exceeds the clamping force. Adding a V-block, a stop block against the vise body, or tightening the vise further can prevent it."
+  },
+  {
+    "id": 150,
+    "domain": "drill_presses",
+    "front": "What is pecking, and why is it used on deep hole drilling?",
+    "back": "Pecking is a technique where the operator periodically retracts the drill fully out of the hole while drilling a deep hole. This breaks and clears the chip before it packs tightly enough to bind the drill or push the work off its clamps. Chip control matters because chips come off hot and sharp, especially from steel, and should only be cleared with a chip brush, never bare hands."
+  },
+  {
+    "id": 151,
+    "domain": "conventional_lathes",
+    "front": "What does a conventional lathe do to a workpiece?",
+    "back": "It spins the workpiece against a stationary cutting tool to remove metal. This is the basic action behind every turning, facing, and boring operation on the machine."
+  },
+  {
+    "id": 152,
+    "domain": "conventional_lathes",
+    "front": "What is the bed of a lathe?",
+    "back": "The bed is the long, heavy base that every other part of the lathe sits on. It carries the precision ways that the carriage and tailstock slide along."
+  },
+  {
+    "id": 153,
+    "domain": "conventional_lathes",
+    "front": "What are the ways on a lathe bed?",
+    "back": "The ways are hardened guide rails machined into the bed that the carriage and tailstock slide along. If the ways are worn or damaged, every part made on that machine will come out inaccurate."
+  },
+  {
+    "id": 154,
+    "domain": "conventional_lathes",
+    "front": "Why do machinists protect the lathe ways as a daily habit?",
+    "back": "Worn or damaged ways ruin the accuracy of the whole machine. Chips, dropped tools, and careless clamping can score or dent the ways, so keeping them clean and protected is routine shop discipline."
+  },
+  {
+    "id": 155,
+    "domain": "conventional_lathes",
+    "front": "Where is the headstock located and what does it hold?",
+    "back": "The headstock sits at the left end of the bed and holds the spindle, the rotating shaft that drives the work. It contains a gear train or a variable speed drive that changes spindle speed."
+  },
+  {
+    "id": 156,
+    "domain": "conventional_lathes",
+    "front": "What is the spindle nose used for?",
+    "back": "The spindle nose is threaded or has a cam-lock taper so chucks, faceplates, and collet fixtures can be mounted and removed safely from the headstock."
+  },
+  {
+    "id": 157,
+    "domain": "conventional_lathes",
+    "front": "What does the tailstock do?",
+    "back": "The tailstock sits at the opposite end of the bed from the headstock and can be locked anywhere along the ways. It holds a center point or a drill chuck in its quill and supports the far end of long work."
+  },
+  {
+    "id": 158,
+    "domain": "conventional_lathes",
+    "front": "What is the quill on a tailstock?",
+    "back": "The quill is a hollow sleeve inside the tailstock that slides in and out using a handwheel. It holds a center point or a drill chuck and can be extended or retracted to reach the work."
+  },
+  {
+    "id": 159,
+    "domain": "conventional_lathes",
+    "front": "How can the tailstock be used for taper turning?",
+    "back": "The tailstock can be offset sideways so the centerline of the work is no longer parallel to the bed ways. As the carriage feeds along the work, this offset produces a taper."
+  },
+  {
+    "id": 160,
+    "domain": "conventional_lathes",
+    "front": "What are the three main parts of the carriage assembly?",
+    "back": "The saddle spans the bed, the apron hangs below it and contains the feed and thread cutting gears, and the cross slide sits on top and moves the tool toward or away from the workpiece."
+  },
+  {
+    "id": 161,
+    "domain": "conventional_lathes",
+    "front": "What is the compound rest used for?",
+    "back": "The compound rest sits on top of the cross slide and can be rotated to any angle. It is used for cutting short tapers and for feeding the tool in during thread cutting."
+  },
+  {
+    "id": 162,
+    "domain": "conventional_lathes",
+    "front": "What is the difference between the lead screw and the feed rod?",
+    "back": "The lead screw is used only for cutting threads because it is precisely geared to the spindle. The feed rod handles ordinary automatic feed for turning and facing operations."
+  },
+  {
+    "id": 163,
+    "domain": "conventional_lathes",
+    "front": "What classic apprentice mistake involves the half-nut lever?",
+    "back": "Mixing up the lead screw and feed rod, or leaving the half-nut engaged when it should not be, can crash the carriage into the chuck. Apprentices must learn to disengage the half-nut before ordinary feed work."
+  },
+  {
+    "id": 164,
+    "domain": "conventional_lathes",
+    "front": "What is the apron and where is it located?",
+    "back": "The apron hangs below the saddle on the carriage and contains the gears that control automatic feed and thread cutting engagement, including the half-nut lever."
+  },
+  {
+    "id": 165,
+    "domain": "conventional_lathes",
+    "front": "Why is knowing lathe part names foundational to the exam?",
+    "back": "Every setup instruction, troubleshooting step, and operation description on the Red Seal exam refers back to these named parts, such as the carriage, tailstock, and cross slide. Without the vocabulary, later concepts are hard to follow."
+  },
+  {
+    "id": 166,
+    "domain": "conventional_lathes",
+    "front": "What is the most common work holding device on a lathe?",
+    "back": "The three-jaw universal chuck is the most common. Its three jaws move together through a scroll plate, so it centers round or hexagonal stock automatically and is fast to use."
+  },
+  {
+    "id": 167,
+    "domain": "conventional_lathes",
+    "front": "What is a weakness of the three-jaw universal chuck?",
+    "back": "It does not grip perfectly true if the stock is not perfectly round or if the jaws are worn, so its centering accuracy can drift over time."
+  },
+  {
+    "id": 168,
+    "domain": "conventional_lathes",
+    "front": "How does a four-jaw independent chuck differ from a three-jaw chuck?",
+    "back": "Its jaws move one at a time instead of together, so the operator must dial in the work using a dial indicator. It is slower to set up but grips harder and can hold square, rectangular, or irregular shapes."
+  },
+  {
+    "id": 169,
+    "domain": "conventional_lathes",
+    "front": "What can a four-jaw chuck do that a three-jaw chuck cannot?",
+    "back": "It can true up work that is slightly bent or has an off-center feature, since each jaw is adjusted independently to correct for the irregularity."
+  },
+  {
+    "id": 170,
+    "domain": "conventional_lathes",
+    "front": "What are collets used for?",
+    "back": "Collets are precision holding devices that close evenly around a workpiece when drawn into a matching taper. They give excellent accuracy and repeatability but only work within a narrow size range."
+  },
+  {
+    "id": 171,
+    "domain": "conventional_lathes",
+    "front": "Why do production shops favor collets?",
+    "back": "Collets are used heavily in production work where the same size bar is loaded over and over, since they give fast, repeatable, accurate holding for round or hex stock."
+  },
+  {
+    "id": 172,
+    "domain": "conventional_lathes",
+    "front": "What is a faceplate and when is it used?",
+    "back": "A faceplate is a flat disc that bolts to the spindle nose, letting the operator clamp odd-shaped parts using bolts, clamps, and angle plates. It is the only practical way to hold some castings and fabricated parts with no round feature to grip."
+  },
+  {
+    "id": 173,
+    "domain": "conventional_lathes",
+    "front": "What does turning between centers require?",
+    "back": "It uses a center in the headstock spindle and a center in the tailstock quill, with a lathe dog clamped to the workpiece and driven by a faceplate or drive plate."
+  },
+  {
+    "id": 174,
+    "domain": "conventional_lathes",
+    "front": "Why would a machinist turn a long shaft between centers?",
+    "back": "This method lets the shaft be removed, turned around, and remounted while staying perfectly concentric, which is important for long parts needing work on multiple sections."
+  },
+  {
+    "id": 175,
+    "domain": "conventional_lathes",
+    "front": "What is a lathe dog used for?",
+    "back": "A lathe dog clamps onto a workpiece that is turning between centers and is driven by a faceplate or drive plate, transferring spindle rotation to the workpiece without a chuck."
+  },
+  {
+    "id": 176,
+    "domain": "conventional_lathes",
+    "front": "What is the difference between a steady rest and a follower rest?",
+    "back": "A steady rest stays fixed on the bed at one location, while a follower rest travels along with the carriage right behind the cutting tool. Both stop long, thin work from bending or whipping under cutting pressure."
+  },
+  {
+    "id": 177,
+    "domain": "conventional_lathes",
+    "front": "When would a machinist use a steady or follower rest?",
+    "back": "These supports are used on long, thin workpieces that would otherwise flex or whip under cutting pressure, which would ruin accuracy and could be dangerous."
+  },
+  {
+    "id": 178,
+    "domain": "conventional_lathes",
+    "front": "At what height should a cutting tool normally be held?",
+    "back": "The tool should be held rigidly and normally exactly on the centerline of the workpiece. Incorrect height changes the effective rake and clearance angles and can cause poor cutting."
+  },
+  {
+    "id": 179,
+    "domain": "conventional_lathes",
+    "front": "How does a traditional tool post set tool height?",
+    "back": "A traditional tool post uses a rocker and wedge to lock a single tool in place, and shims are added underneath to bring the tool to the correct center height."
+  },
+  {
+    "id": 180,
+    "domain": "conventional_lathes",
+    "front": "What is the advantage of a quick-change tool post?",
+    "back": "It uses interchangeable holders that lock into a dovetail, letting the operator swap between facing tools, turning tools, and boring bars in seconds while keeping each one preset to the correct height."
+  },
+  {
+    "id": 181,
+    "domain": "conventional_lathes",
+    "front": "What does rake angle control on a cutting tool?",
+    "back": "Rake angle is ground into the top face of the tool and controls how the chip curls away from the work. It directly affects cutting force, chip flow, and heat generation."
+  },
+  {
+    "id": 182,
+    "domain": "conventional_lathes",
+    "front": "What is the difference between positive and negative rake?",
+    "back": "Positive rake cuts more freely and produces less heat, which suits softer materials. Negative rake is stronger and suits harder materials and interrupted cuts."
+  },
+  {
+    "id": 183,
+    "domain": "conventional_lathes",
+    "front": "What is clearance angle, also called relief angle?",
+    "back": "Clearance angle is ground on the front and side of the tool below the cutting edge. It stops the tool from rubbing against the finished surface of the workpiece."
+  },
+  {
+    "id": 184,
+    "domain": "conventional_lathes",
+    "front": "What happens if a cutting tool does not have enough clearance angle?",
+    "back": "The tool drags instead of cutting cleanly, and the work finish turns dull and torn looking rather than smooth."
+  },
+  {
+    "id": 185,
+    "domain": "conventional_lathes",
+    "front": "What are the strengths of high speed steel (HSS) tooling?",
+    "back": "HSS is tough, can be ground to any shape in the shop, and holds a sharp edge well at moderate temperatures. It is the standard choice for one-off jobs and form tools ground on the pedestal grinder."
+  },
+  {
+    "id": 186,
+    "domain": "conventional_lathes",
+    "front": "What are carbide inserts and what is their advantage?",
+    "back": "Carbide inserts are replaceable tips brazed or clamped onto a steel shank. They stay hard at much higher temperatures than HSS, allowing faster cutting speeds and longer tool life in production runs."
+  },
+  {
+    "id": 187,
+    "domain": "conventional_lathes",
+    "front": "What is a downside of carbide tooling?",
+    "back": "Carbide is more brittle than HSS and chips or cracks if used with heavy vibration or an unsupported setup, so rigidity matters more with carbide."
+  },
+  {
+    "id": 188,
+    "domain": "conventional_lathes",
+    "front": "What does SFM stand for and what does it measure?",
+    "back": "SFM means surface feet per minute, the speed at which the outer surface of the workpiece is moving past the cutting edge. Every material and tool combination has a recommended SFM from reference tables."
+  },
+  {
+    "id": 189,
+    "domain": "conventional_lathes",
+    "front": "What happens if spindle speed is set too fast for the material?",
+    "back": "Running too fast for the recommended SFM burns up the tool faster, since excess heat builds at the cutting edge. Running too slow wastes time and can cause poor finish."
+  },
+  {
+    "id": 190,
+    "domain": "conventional_lathes",
+    "front": "What is the formula to convert SFM to spindle RPM?",
+    "back": "RPM equals SFM times 3.82, divided by the diameter of the workpiece in inches. The constant 3.82 comes from rearranging the circumference formula for feet and minutes."
+  },
+  {
+    "id": 191,
+    "domain": "conventional_lathes",
+    "front": "Calculate the RPM for turning 2 inch diameter mild steel at 90 SFM with an HSS tool.",
+    "back": "Multiply 90 by 3.82 to get 343.8, then divide by the diameter of 2 inches to get 171.9 RPM. The machinist would round down to the nearest available speed, about 170 RPM."
+  },
+  {
+    "id": 192,
+    "domain": "conventional_lathes",
+    "front": "Why does a machinist round down when selecting a lathe speed setting?",
+    "back": "Rounding down keeps the actual cutting speed safely within the recommended SFM range for the material and tool, avoiding excess heat and tool wear from running slightly too fast."
+  },
+  {
+    "id": 193,
+    "domain": "conventional_lathes",
+    "front": "What is feed rate on a lathe?",
+    "back": "Feed rate is how far the tool advances along the work for each revolution of the spindle, usually measured in thousandths of an inch per revolution. It is separate from spindle speed."
+  },
+  {
+    "id": 194,
+    "domain": "conventional_lathes",
+    "front": "How does feed rate affect surface finish?",
+    "back": "A heavier feed removes metal faster but leaves a rougher surface finish, while a lighter feed gives a smoother finish but takes longer to complete the pass."
+  },
+  {
+    "id": 195,
+    "domain": "conventional_lathes",
+    "front": "How do roughing and finishing passes differ in feed and depth of cut?",
+    "back": "Roughing passes use a heavier feed and a larger depth of cut to remove metal quickly. Finishing passes use a light feed and a shallow depth of cut to reach final size and a good surface finish."
+  },
+  {
+    "id": 196,
+    "domain": "conventional_lathes",
+    "front": "What is depth of cut and how is it measured?",
+    "back": "Depth of cut is the thickness of material being removed in a single pass, measured on the radius. A rough pass might remove 0.100 inches while a finish pass removes only 0.005 to 0.010 inches."
+  },
+  {
+    "id": 197,
+    "domain": "conventional_lathes",
+    "front": "What three variables must be balanced for an efficient lathe setup?",
+    "back": "Speed, feed, and depth of cut must be balanced together. Getting the combination wrong can burn tools or cause chatter on the finished surface."
+  },
+  {
+    "id": 198,
+    "domain": "conventional_lathes",
+    "front": "Why is SFM calculation one of the most tested topics on the Red Seal exam?",
+    "back": "Picking the right spindle speed for a given material, tool, and diameter is a core daily task for a machinist, and the math has a specific formula and constant that must be applied correctly every time."
+  },
+  {
+    "id": 199,
+    "domain": "conventional_lathes",
+    "front": "A machinist is cutting bronze at 200 SFM with a 4 inch diameter part. Find the RPM.",
+    "back": "Multiply 200 by 3.82 to get 764, then divide by the diameter of 4 inches to get 191 RPM. The operator would set the closest available speed at or below this value."
+  },
+  {
+    "id": 200,
+    "domain": "conventional_lathes",
+    "front": "Why does increasing workpiece diameter lower the required RPM for the same SFM?",
+    "back": "A larger diameter means more surface distance passes the cutting edge per revolution, so fewer revolutions per minute are needed to reach the same surface feet per minute."
+  },
+  {
+    "id": 201,
+    "domain": "conventional_lathes",
+    "front": "What is facing on a lathe?",
+    "back": "Facing cuts a flat surface across the end of the workpiece, square to the axis of rotation. The tool feeds across using the cross slide while the carriage stays locked in place."
+  },
+  {
+    "id": 202,
+    "domain": "conventional_lathes",
+    "front": "Why is facing almost always done first on a new workpiece?",
+    "back": "Facing establishes a clean, square reference surface that the machinist can measure from for every later cut, so the rest of the part is built off an accurate starting point."
+  },
+  {
+    "id": 203,
+    "domain": "conventional_lathes",
+    "front": "What is turning on a lathe?",
+    "back": "Turning reduces the diameter of the workpiece along its length by feeding the carriage parallel to the bed ways, producing a cylindrical surface."
+  },
+  {
+    "id": 204,
+    "domain": "conventional_lathes",
+    "front": "How much material is typically left after rough turning for the finish pass?",
+    "back": "Rough turning removes most of the excess material quickly, often leaving about 0.020 to 0.030 inches for the finish pass to bring the part to final size and finish."
+  },
+  {
+    "id": 205,
+    "domain": "conventional_lathes",
+    "front": "What is the goal of finish turning?",
+    "back": "Finish turning takes a light final cut to bring the diameter to the exact size called for on the print and to leave a smooth surface finish."
+  },
+  {
+    "id": 206,
+    "domain": "conventional_lathes",
+    "front": "What is boring on a lathe?",
+    "back": "Boring is essentially turning done on the inside of a hole rather than the outside of a workpiece, using a boring bar to enlarge and true up a pre-drilled or pre-cast hole."
+  },
+  {
+    "id": 207,
+    "domain": "conventional_lathes",
+    "front": "Why is boring more prone to chatter than outside turning?",
+    "back": "The boring bar has less support inside the hole and can flex, so machinists use the shortest and heaviest bar that will reach the required depth to reduce chatter."
+  },
+  {
+    "id": 208,
+    "domain": "conventional_lathes",
+    "front": "What is a boring bar?",
+    "back": "A boring bar is a long, slender tool holder that reaches into a hole to enlarge and true it up, acting as the internal equivalent of a turning tool."
+  },
+  {
+    "id": 209,
+    "domain": "conventional_lathes",
+    "front": "What is reaming on a lathe used for?",
+    "back": "Reaming uses a reamer mounted in the tailstock to bring a hole to a precise final diameter with a smooth finish, removing only a small amount of material."
+  },
+  {
+    "id": 210,
+    "domain": "conventional_lathes",
+    "front": "Why should a reamer never be used to remove large amounts of stock?",
+    "back": "A reamer removes only a few thousandths of an inch efficiently. Using it to remove more stock dulls it quickly and produces an oversized or bell-mouthed hole."
+  },
+  {
+    "id": 211,
+    "domain": "conventional_lathes",
+    "front": "What is the typical stock removal for a reaming pass?",
+    "back": "Reaming typically removes only a few thousandths of an inch, just enough to bring the hole to precise final size with a smooth finish, not to enlarge it significantly."
+  },
+  {
+    "id": 212,
+    "domain": "conventional_lathes",
+    "front": "What is a taper on a lathe workpiece?",
+    "back": "A taper is a workpiece that changes diameter evenly along its length. The lathe offers several distinct methods to produce one, each suited to different taper lengths and holding setups."
+  },
+  {
+    "id": 213,
+    "domain": "conventional_lathes",
+    "front": "How does the compound rest method cut a taper?",
+    "back": "The compound rest is swiveled to the desired angle using its graduated base, and the tool is fed by hand along the angled slide. This works for any angle but is limited to short tapers."
+  },
+  {
+    "id": 214,
+    "domain": "conventional_lathes",
+    "front": "What limits the compound rest taper method?",
+    "back": "The compound rest has limited travel, so this method can only cut short tapers even though it can be set to any angle."
+  },
+  {
+    "id": 215,
+    "domain": "conventional_lathes",
+    "front": "How does the offset tailstock method cut a taper?",
+    "back": "The tailstock is shifted sideways by a calculated amount so the work centerline is no longer parallel to the bed ways. As the carriage feeds automatically, it cuts a taper along the length of the work."
+  },
+  {
+    "id": 216,
+    "domain": "conventional_lathes",
+    "front": "What is a limitation of the offset tailstock taper method?",
+    "back": "It cannot be used on work held in a chuck because it relies on centers at both ends. It works best for long, shallow tapers like machine centers."
+  },
+  {
+    "id": 217,
+    "domain": "conventional_lathes",
+    "front": "What is a taper attachment?",
+    "back": "A taper attachment is a separate accessory bar mounted on the back of the lathe that guides the cross slide in and out as the carriage travels, cutting a taper without offsetting the tailstock."
+  },
+  {
+    "id": 218,
+    "domain": "conventional_lathes",
+    "front": "Why is the taper attachment considered the most versatile taper method?",
+    "back": "It keeps the tailstock centers true, which matters when a part needs further work between centers later, and it allows longer, more consistent tapers than the compound rest method."
+  },
+  {
+    "id": 219,
+    "domain": "conventional_lathes",
+    "front": "Which taper method should be used if the tailstock centers must stay aligned for later operations?",
+    "back": "The taper attachment should be used, since it cuts the taper without offsetting the tailstock, unlike the offset tailstock method which throws off center alignment."
+  },
+  {
+    "id": 220,
+    "domain": "conventional_lathes",
+    "front": "What is knurling and what is it used for?",
+    "back": "Knurling presses a diamond or straight pattern into the surface of a round part, usually to improve grip on a handle or knob."
+  },
+  {
+    "id": 221,
+    "domain": "conventional_lathes",
+    "front": "How does a knurling tool work differently from a normal cutting tool?",
+    "back": "A knurling tool holds two hardened wheels that press into the rotating work under heavy feed pressure rather than cutting, so it needs a slow speed and firm work holding to avoid slipping."
+  },
+  {
+    "id": 222,
+    "domain": "conventional_lathes",
+    "front": "What is grooving on a lathe?",
+    "back": "Grooving cuts a narrow channel into the diameter of a part, often for an O-ring seat or a relief groove next to a shoulder."
+  },
+  {
+    "id": 223,
+    "domain": "conventional_lathes",
+    "front": "What is parting and how does it differ from grooving?",
+    "back": "Parting is a deeper version of grooving that cuts all the way through the workpiece to separate a finished part from the bar stock, while grooving only cuts a channel partway in."
+  },
+  {
+    "id": 224,
+    "domain": "conventional_lathes",
+    "front": "Why are grooving and parting tools prone to chatter and breakage?",
+    "back": "Both operations use a thin blade-like tool that is prone to chatter and breakage if fed too fast or if the tool is not exactly on center height."
+  },
+  {
+    "id": 225,
+    "domain": "conventional_lathes",
+    "front": "What is single point threading?",
+    "back": "Single point threading cuts a screw thread by feeding a pointed tool into the work while the carriage is locked to the spindle through the lead screw, advancing exactly one thread pitch per spindle revolution."
+  },
+  {
+    "id": 226,
+    "domain": "conventional_lathes",
+    "front": "What is thread pitch?",
+    "back": "Thread pitch is the distance from one thread crest to the next. The change gears or gearbox settings must match the pitch so the lead screw drives the carriage at the correct rate."
+  },
+  {
+    "id": 227,
+    "domain": "conventional_lathes",
+    "front": "What is a thread dial used for?",
+    "back": "A thread dial is a small graduated disc geared to the lead screw that tells the operator exactly when to engage the half-nut lever for each pass, so the tool drops back into the same thread groove."
+  },
+  {
+    "id": 228,
+    "domain": "conventional_lathes",
+    "front": "What would happen without a thread dial when cutting threads?",
+    "back": "Without a thread dial the operator would have to reverse the spindle after every single pass to keep the tool aligned with the groove, which wastes time and risks cutting an offset thread."
+  },
+  {
+    "id": 229,
+    "domain": "conventional_lathes",
+    "front": "What are change gears?",
+    "back": "Change gears are the set of gears in the gear train between the spindle and the lead screw. Different combinations must be installed to cut different thread pitches on manual lathes without a full gearbox."
+  },
+  {
+    "id": 230,
+    "domain": "conventional_lathes",
+    "front": "How do modern lathes simplify changing thread pitch compared to older manual lathes?",
+    "back": "Most modern lathes have a quick-change gearbox with a lever selector instead of swapping physical change gears, though the underlying gear ratio math is the same."
+  },
+  {
+    "id": 231,
+    "domain": "conventional_lathes",
+    "front": "At what angle is the compound rest normally set for cutting standard 60 degree threads?",
+    "back": "The compound rest is normally set at 29 or 29.5 degrees, which lets the tool cut mainly on one flank and clears chips more easily during threading passes."
+  },
+  {
+    "id": 232,
+    "domain": "conventional_lathes",
+    "front": "How is a thread cut to final depth and checked?",
+    "back": "Threading is done in several passes of increasing depth, with the final pass very light. The thread is checked for correct depth with a thread gauge or by fitting a mating nut."
+  },
+  {
+    "id": 233,
+    "domain": "conventional_lathes",
+    "front": "What is chatter on a lathe?",
+    "back": "Chatter is unwanted vibration that leaves a wavy pattern on the finished surface. It is one of the most common lathe problems tested on the Red Seal exam."
+  },
+  {
+    "id": 234,
+    "domain": "conventional_lathes",
+    "front": "What are common causes of chatter?",
+    "back": "Common causes include a tool held too far out of the tool post, worn spindle bearings, work that is not rigidly supported, or a cutting speed and feed combination that excites vibration."
+  },
+  {
+    "id": 235,
+    "domain": "conventional_lathes",
+    "front": "How can a machinist fix chatter during a cut?",
+    "back": "The fix usually involves shortening the tool overhang, adding a steady or follower rest, slowing the speed, or increasing the feed slightly to break up the vibration pattern."
+  },
+  {
+    "id": 236,
+    "domain": "conventional_lathes",
+    "front": "What commonly causes poor surface finish on a turned part?",
+    "back": "Poor surface finish often comes from insufficient tool clearance, a dull cutting edge, too much spindle speed for the material, or coolant not reaching the cutting zone."
+  },
+  {
+    "id": 237,
+    "domain": "conventional_lathes",
+    "front": "What usually causes taper error on a part meant to be straight and parallel?",
+    "back": "Taper error usually points to the tailstock being offset when it should be aligned, worn bed ways, or the headstock and tailstock centers not being aligned to the bed."
+  },
+  {
+    "id": 238,
+    "domain": "conventional_lathes",
+    "front": "How does a machinist check a lathe for alignment error using a test bar?",
+    "back": "The machinist turns a test bar between centers and measures the diameter at both ends with a micrometer. Any difference between the two readings shows how far out of alignment the machine is."
+  },
+  {
+    "id": 239,
+    "domain": "conventional_lathes",
+    "front": "Why is depth of cut measured on the radius rather than the diameter?",
+    "back": "Depth of cut refers to how far the tool moves into the material from the surface inward, which is a radial distance, so it is expressed on the radius rather than the full diameter change."
+  },
+  {
+    "id": 240,
+    "domain": "conventional_lathes",
+    "front": "Why must a boring bar be as short and heavy as possible for the job?",
+    "back": "A shorter, heavier boring bar flexes less under cutting pressure, reducing chatter and improving accuracy inside a bore where support is already limited."
+  },
+  {
+    "id": 241,
+    "domain": "conventional_lathes",
+    "front": "What tool setup is needed before facing a workpiece for the first time?",
+    "back": "The tool must be set at the correct height on the centerline and the cross slide engaged, while the carriage stays locked, so the facing tool can cut a clean square surface across the end."
+  },
+  {
+    "id": 242,
+    "domain": "conventional_lathes",
+    "front": "Why would a machinist choose the compound rest method over a taper attachment for a small chamfer?",
+    "back": "The compound rest method is quick to set up for short tapers of any angle, such as a small chamfer, while the taper attachment is better suited to longer, more consistent tapers."
+  },
+  {
+    "id": 243,
+    "domain": "conventional_lathes",
+    "front": "What safety concern applies to knurling that does not apply to normal turning?",
+    "back": "Knurling presses rather than cuts, generating heavy radial force on the workpiece, so firm work holding and slow speed are needed to prevent the work from slipping in the chuck."
+  },
+  {
+    "id": 244,
+    "domain": "conventional_lathes",
+    "front": "Why must a parting tool be set exactly on center height?",
+    "back": "If a parting tool is above or below center height it rubs instead of cutting cleanly on one side, which increases the chance of chatter, tool breakage, and a poor cut surface."
+  },
+  {
+    "id": 245,
+    "domain": "conventional_lathes",
+    "front": "What is the relationship between the lead screw and the spindle during thread cutting?",
+    "back": "The lead screw is precisely geared to the spindle so the carriage advances exactly one thread pitch for every spindle revolution, keeping the thread lead accurate along the full length."
+  },
+  {
+    "id": 246,
+    "domain": "conventional_lathes",
+    "front": "Why would a machinist choose a boring operation instead of drilling to finish a hole?",
+    "back": "Boring can true up and enlarge a hole that was pre-drilled or pre-cast, correcting for any misalignment or size error that drilling alone left behind."
+  },
+  {
+    "id": 247,
+    "domain": "conventional_lathes",
+    "front": "What does it mean if a test bar measures larger at the tailstock end than the headstock end?",
+    "back": "This shows the machine is cutting a taper instead of a straight cylinder, most often because the tailstock is offset or the centers are not aligned to the bed."
+  },
+  {
+    "id": 248,
+    "domain": "conventional_lathes",
+    "front": "Why is a light final pass used in both finish turning and thread cutting?",
+    "back": "A light final pass removes minimal material so the operator has precise control over the last few thousandths of an inch, bringing the part to exact size or thread depth without overshooting."
+  },
+  {
+    "id": 249,
+    "domain": "conventional_lathes",
+    "front": "What is the purpose of rounding calculated RPM to the nearest available lathe speed?",
+    "back": "Lathes only offer a fixed set of gear or belt speed steps, so the calculated ideal RPM must be matched to the closest real setting, usually rounded down to stay within the safe SFM range."
+  },
+  {
+    "id": 250,
+    "domain": "conventional_lathes",
+    "front": "Why does grooving next to a shoulder often use a narrower tool than parting?",
+    "back": "A groove only needs to cut a shallow relief channel rather than sever the part, so a narrower or shaped tool matched to the groove width is used instead of a full parting blade."
+  },
+  {
+    "id": 251,
+    "domain": "conventional_lathes",
+    "front": "What is the danger of running a reamer at too high a feed or speed?",
+    "back": "Excess feed or speed on a reamer causes it to dull quickly and can produce a bell-mouthed or oversized hole instead of the precise finish the operation is meant to deliver."
+  },
+  {
+    "id": 252,
+    "domain": "conventional_lathes",
+    "front": "Why is turning between centers preferred for shafts that need work on both ends?",
+    "back": "The centers keep the shaft perfectly concentric even after it is removed and reversed, so features on both ends stay aligned to the same axis."
+  },
+  {
+    "id": 253,
+    "domain": "conventional_lathes",
+    "front": "What does it mean when a cutting tool is described as having too much overhang?",
+    "back": "Too much overhang means the tool sticks out too far from the tool post, reducing rigidity and making the setup more likely to vibrate and chatter during the cut."
+  },
+  {
+    "id": 254,
+    "domain": "conventional_lathes",
+    "front": "Why is coolant delivery important for surface finish, not just tool life?",
+    "back": "Coolant that fails to reach the cutting zone lets heat build at the tool edge, which can dull the tool and leave a rough or torn surface finish on the part."
+  },
+  {
+    "id": 255,
+    "domain": "conventional_lathes",
+    "front": "What is the overall link between speed, feed, depth of cut, and chatter?",
+    "back": "An unbalanced combination of these three variables can excite vibration in the tool and workpiece, producing chatter, so adjusting one, such as slowing speed or raising feed slightly, often breaks the pattern."
+  },
+  {
+    "id": 256,
+    "domain": "conventional_milling_machines",
+    "front": "What is milling?",
+    "back": "Milling is removing metal with a rotating multi-tooth cutter while the workpiece is fed into it. The cutter spins and the table holding the work moves in straight lines or curves. This is the opposite of a lathe, where the work spins and the tool stays still."
+  },
+  {
+    "id": 257,
+    "domain": "conventional_milling_machines",
+    "front": "How much of the Red Seal Machinist exam does Block F, conventional milling machines, cover?",
+    "back": "Block F is worth about 21 percent of the exam, roughly 28 of 135 scored questions. Only one other block carries this much weight. A candidate needs full command of this material."
+  },
+  {
+    "id": 258,
+    "domain": "conventional_milling_machines",
+    "front": "Vertical knee mill",
+    "back": "The most common machine in a trade shop. Its spindle points straight down, parallel to gravity. The knee is the casting that slides up and down the column to set cutting depth, and it also carries the saddle and table."
+  },
+  {
+    "id": 259,
+    "domain": "conventional_milling_machines",
+    "front": "What does the knee do on a knee mill?",
+    "back": "The knee is the casting that slides up and down the column to set cutting depth. It carries the saddle and table above it. This design lets an operator raise or lower the whole table assembly rather than just the cutter."
+  },
+  {
+    "id": 260,
+    "domain": "conventional_milling_machines",
+    "front": "Horizontal mill",
+    "back": "A mill whose spindle runs side to side instead of up and down. The cutter mounts on a long shaft called an arbor, supported at the outboard end by an overarm and bearing. Horizontal mills excel at slab milling and slotting with side and slot cutters."
+  },
+  {
+    "id": 261,
+    "domain": "conventional_milling_machines",
+    "front": "What is an arbor used for on a horizontal mill?",
+    "back": "An arbor is the long shaft that a horizontal mill's cutter mounts on. It is supported at the outboard end by an overarm and bearing. This setup lets the cutter run rigidly across the width of the workpiece."
+  },
+  {
+    "id": 262,
+    "domain": "conventional_milling_machines",
+    "front": "What operation are horizontal mills especially good at?",
+    "back": "Horizontal mills excel at slab milling, where a wide cutter removes a large flat area in one pass. They also handle slotting well using side and slot cutters. The long arbor gives strong support for wide cutters."
+  },
+  {
+    "id": 263,
+    "domain": "conventional_milling_machines",
+    "front": "Bed mill",
+    "back": "A mill that looks similar to a vertical knee mill, but the table sits directly on a fixed bed instead of a knee. Only the table and saddle move in X and Y, while the spindle head moves up and down in Z on the column. Bed mills are heavier and more rigid, so shops use them for larger work and deeper cuts."
+  },
+  {
+    "id": 264,
+    "domain": "conventional_milling_machines",
+    "front": "How does a bed mill differ from a knee mill in how the Z axis moves?",
+    "back": "On a bed mill, the table stays at a fixed height and the spindle head moves up and down on the column for Z motion. On a knee mill, the knee itself raises and lowers to set depth. This makes bed mills heavier and more rigid for large work."
+  },
+  {
+    "id": 265,
+    "domain": "conventional_milling_machines",
+    "front": "Universal mill",
+    "back": "A machine combining features of both vertical and horizontal types, sometimes with a swiveling table that can be angled for helical work like gear teeth or flutes. A dividing head is often bolted to a universal mill's table for this kind of work. Knowing which machine suits a job is a core exam competency."
+  },
+  {
+    "id": 266,
+    "domain": "conventional_milling_machines",
+    "front": "What is often bolted to a universal mill's table for helical work?",
+    "back": "A dividing head is often bolted to a universal mill's table when cutting helical features like gear teeth or flutes. The universal mill's swiveling table lets it angle for this kind of work. This combination handles jobs neither a plain vertical nor horizontal mill can do alone."
+  },
+  {
+    "id": 267,
+    "domain": "conventional_milling_machines",
+    "front": "What are the three basic axes on any milling machine?",
+    "back": "The X axis moves the table left and right, the Y axis moves the saddle toward and away from the column, and the Z axis moves the cutter up and down. A machinist converts every hole location and feature on a print into moves along these three axes."
+  },
+  {
+    "id": 268,
+    "domain": "conventional_milling_machines",
+    "front": "How does the Z axis move on a mill?",
+    "back": "The Z axis moves the cutter up and down, either by raising the knee or by moving the quill or head, depending on the machine type. This is the depth direction for cutting. Every mill design achieves Z motion differently but the axis meaning stays the same."
+  },
+  {
+    "id": 269,
+    "domain": "conventional_milling_machines",
+    "front": "What do the column and base of a mill do?",
+    "back": "The column and base are heavy iron castings designed to resist vibration and hold alignment for years of hard use. Their mass and rigidity keep the machine accurate under cutting loads. A weak or worn structure would show up as chatter and poor accuracy."
+  },
+  {
+    "id": 270,
+    "domain": "conventional_milling_machines",
+    "front": "What are the ways on a milling machine?",
+    "back": "The ways are the precision-ground sliding surfaces between the knee, saddle, and table. They must stay clean and lubricated, because dirt or wear in the ways shows up directly as inaccurate parts. A damaged way can never be fully corrected without a regrind."
+  },
+  {
+    "id": 271,
+    "domain": "conventional_milling_machines",
+    "front": "Why does a machinist check the ways for nicks or wear marks?",
+    "back": "Checking the ways is routine machine maintenance because damage there directly causes inaccurate parts. A damaged way cannot be fully corrected without a regrind. Catching wear early protects the machine's long-term accuracy."
+  },
+  {
+    "id": 272,
+    "domain": "conventional_milling_machines",
+    "front": "Machine vise",
+    "back": "The most basic work holding device, bolted to the table, that clamps the workpiece between fixed and moving jaws. Plain vises hold square or flat stock. Swivel base vises add rotation in the horizontal plane for angled cuts, and some vises tilt in two planes for compound angle work."
+  },
+  {
+    "id": 273,
+    "domain": "conventional_milling_machines",
+    "front": "What is the difference between a plain vise and a swivel base vise?",
+    "back": "A plain vise holds square or flat stock with no added rotation. A swivel base vise adds rotation in the horizontal plane for angled cuts. Some vises go further and tilt in two planes for compound angle work."
+  },
+  {
+    "id": 274,
+    "domain": "conventional_milling_machines",
+    "front": "Step clamps (strap clamps)",
+    "back": "Clamps that hold irregular or oversized parts directly to the table using T-slot bolts and step blocks. The step block sits under the far end of the clamp at the same height as the workpiece, so clamping force presses straight down instead of pulling the part sideways."
+  },
+  {
+    "id": 275,
+    "domain": "conventional_milling_machines",
+    "front": "Where should the clamping bolt sit relative to the workpiece and step block?",
+    "back": "The bolt should be closer to the work than to the step block. This multiplies the clamping force where it is needed most. Clamps should also sit as close to the workpiece as practical."
+  },
+  {
+    "id": 276,
+    "domain": "conventional_milling_machines",
+    "front": "Why must the step block be the same height as the workpiece under a strap clamp?",
+    "back": "Matching the step block height to the workpiece keeps the clamp level, so the clamping force presses straight down. If the heights differ, the force would pull the part sideways instead of holding it firmly. This keeps the setup stable during cutting."
+  },
+  {
+    "id": 277,
+    "domain": "conventional_milling_machines",
+    "front": "Indexing head (dividing head)",
+    "back": "A precision fixture that holds round or splined work between centers or in a chuck and rotates it by exact fractions of a turn. It uses a worm gear set, most commonly a 40 to 1 ratio, driven by a crank with an index plate of evenly spaced holes. It lets a machinist cut gear teeth, splines, hex flats, or any feature that repeats around a circle at equal spacing."
+  },
+  {
+    "id": 278,
+    "domain": "conventional_milling_machines",
+    "front": "What worm gear ratio is most common on a dividing head?",
+    "back": "The most common ratio is 40 to 1, meaning 40 turns of the crank rotates the work spindle exactly one full turn. This ratio is the basis for all simple indexing math. It is driven by a crank paired with an index plate of holes."
+  },
+  {
+    "id": 279,
+    "domain": "conventional_milling_machines",
+    "front": "Rotary table",
+    "back": "A flat circular table that bolts to the mill table and rotates the workpiece around a vertical or horizontal axis, often also with a 40 to 1 worm drive. It is used for milling curved slots, bolt circles, and radiused profiles. It appears often on the exam because its calculations test real math skill."
+  },
+  {
+    "id": 280,
+    "domain": "conventional_milling_machines",
+    "front": "What is a rotary table used for?",
+    "back": "A rotary table is used for milling curved slots, bolt circles, and radiused profiles. It bolts to the mill table and rotates the workpiece around a vertical or horizontal axis. Many rotary tables use a 40 to 1 worm drive like a dividing head."
+  },
+  {
+    "id": 281,
+    "domain": "conventional_milling_machines",
+    "front": "Parallels",
+    "back": "Ground steel bars placed under a workpiece in a vise to raise it off the vise bottom and keep the bottom surface parallel to the table. Without parallels, a part sitting directly on the vise floor could rock on chips or debris, ruining the accuracy of every cut made afterward."
+  },
+  {
+    "id": 282,
+    "domain": "conventional_milling_machines",
+    "front": "What is seating the work?",
+    "back": "Seating the work is tapping the part down with a soft mallet after placing it on parallels in a vise. A machinist then checks with a dial indicator that the top surface reads flat before clamping fully. This confirms the part is not rocking on chips or debris."
+  },
+  {
+    "id": 283,
+    "domain": "conventional_milling_machines",
+    "front": "V blocks",
+    "back": "Fixtures that hold round stock so a flat, keyway, or hole can be machined on the side of a cylinder. The V shaped groove naturally centers the round part, and a clamp on top holds it firmly in place. They are a simple, accurate way to hold cylindrical work."
+  },
+  {
+    "id": 284,
+    "domain": "conventional_milling_machines",
+    "front": "Angle plates",
+    "back": "Fixtures that provide a precision vertical or angled surface to bolt work against. They are useful when a feature must be cut square or at a set angle to a reference face that cannot sit flat on the table. This lets an odd-shaped part be held rigidly for machining."
+  },
+  {
+    "id": 285,
+    "domain": "conventional_milling_machines",
+    "front": "Collets",
+    "back": "Tool holders that grip round-shank tools like end mills and drills with even pressure around the full circumference of the shank. A common style is the R8 collet used on Bridgeport-style mills, and the 5C collet used for smaller precision work. Collets give better concentricity than a standard drill chuck."
+  },
+  {
+    "id": 286,
+    "domain": "conventional_milling_machines",
+    "front": "What does concentricity mean when comparing a collet to a drill chuck?",
+    "back": "Concentricity means the tool runs truer with less wobble. Collets grip the tool shank with even pressure around its full circumference, giving better concentricity than a standard drill chuck. This matters for accurate hole location and finish."
+  },
+  {
+    "id": 287,
+    "domain": "conventional_milling_machines",
+    "front": "R8 collet vs 5C collet",
+    "back": "The R8 collet is the common style used on Bridgeport-style mills. The 5C collet is used for smaller precision work. Both grip round-shank tools with even pressure for better concentricity than a chuck."
+  },
+  {
+    "id": 288,
+    "domain": "conventional_milling_machines",
+    "front": "End mill holder",
+    "back": "A straight-bore holder with a set screw or a shrink-fit grip, built for larger diameter end mill shanks that a collet cannot span. It is chosen when the tool shank is too large for available collets. Shrink-fit types heat and cool to grip the shank tightly."
+  },
+  {
+    "id": 289,
+    "domain": "conventional_milling_machines",
+    "front": "Shell mill holders and arbors",
+    "back": "Holders that carry face mills and slab cutters, which have a center bore instead of a shank. They are driven by a key or drive pins so the cutting force does not rely on friction alone. This gives a much more secure drive for heavy cutting loads."
+  },
+  {
+    "id": 290,
+    "domain": "conventional_milling_machines",
+    "front": "Two-flute end mill",
+    "back": "An end mill with open space for chip clearance, good for slotting since it can plunge straight down like a drill. The flutes meet at the center, allowing this plunging action. It clears chips well but leaves a rougher finish than a four-flute cutter."
+  },
+  {
+    "id": 291,
+    "domain": "conventional_milling_machines",
+    "front": "Four-flute end mill",
+    "back": "An end mill with more cutting edges for a smoother finish and higher feed rate on the sides of a cut. It does not plunge as well because the flutes do not meet at the center. It is chosen for side milling and finishing rather than for slotting straight down."
+  },
+  {
+    "id": 292,
+    "domain": "conventional_milling_machines",
+    "front": "Why can't a four-flute end mill plunge straight down like a two-flute?",
+    "back": "A four-flute end mill's flutes do not meet at the center, so there is no clear path for the tool to cut like a drill. A two-flute end mill has open space and flutes that meet at the center, letting it plunge. This is why two-flute cutters are chosen for slotting."
+  },
+  {
+    "id": 293,
+    "domain": "conventional_milling_machines",
+    "front": "Face mill",
+    "back": "A large diameter cutter with multiple insert teeth mounted on the face, used to machine wide flat surfaces quickly. It takes light passes across the width of a part to true up a surface. Face mills are commonly held in shell mill holders or arbors."
+  },
+  {
+    "id": 294,
+    "domain": "conventional_milling_machines",
+    "front": "Slab mill",
+    "back": "A long cylindrical cutter with teeth along its circumference, used on horizontal machines for removing a wide swath of material in one pass. It is well suited to horizontal mills because of the arbor support. Slab milling is one of the classic strengths of a horizontal machine."
+  },
+  {
+    "id": 295,
+    "domain": "conventional_milling_machines",
+    "front": "Slitting saw",
+    "back": "A thin, wide-diameter blade used to cut narrow slots or to part off material. It works similar in idea to a cutoff tool on a lathe but rotates instead of staying stationary. Slitting saws are mounted on an arbor for use on horizontal or vertical setups."
+  },
+  {
+    "id": 296,
+    "domain": "conventional_milling_machines",
+    "front": "Conventional milling (up milling)",
+    "back": "A milling method where the cutter rotates so its teeth move against the direction of table feed. The chip starts thin and grows thicker as the tooth exits the cut. This tends to push the workpiece away from the cutter, which helps on older machines with backlash in the lead screw."
+  },
+  {
+    "id": 297,
+    "domain": "conventional_milling_machines",
+    "front": "Climb milling (down milling)",
+    "back": "A milling method where the cutter teeth move in the same direction as the table feed. The chip starts thick and thins out as the tooth exits, and the cutting force pulls the work into the cutter. It gives better surface finish and longer tool life on rigid modern machines."
+  },
+  {
+    "id": 298,
+    "domain": "conventional_milling_machines",
+    "front": "Why is climb milling risky on a machine with worn lead screws?",
+    "back": "In climb milling the cutting force pulls the work into the cutter. On a machine with loose backlash, the table can suddenly get pulled forward, which can cause a broken cutter or be dangerous. This is why manual knee mills with worn screws are often run in conventional mode instead."
+  },
+  {
+    "id": 299,
+    "domain": "conventional_milling_machines",
+    "front": "How does chip thickness differ between conventional and climb milling?",
+    "back": "In conventional milling the chip starts thin and grows thicker as the tooth exits the cut. In climb milling the chip starts thick and thins out as the tooth exits. This difference in chip formation is the core distinction between the two methods."
+  },
+  {
+    "id": 300,
+    "domain": "conventional_milling_machines",
+    "front": "Which milling method do rigid CNC-style mills usually use for finishing passes?",
+    "back": "Rigid CNC-style mills with backlash compensation almost always use climb milling for finishing passes. Climb milling gives a better surface finish and longer tool life on machines built to handle the pulling force. Backlash compensation removes the danger of the table jerking forward."
+  },
+  {
+    "id": 301,
+    "domain": "conventional_milling_machines",
+    "front": "Which milling method is often safer for roughing cuts on a manual knee mill with worn lead screws?",
+    "back": "Conventional milling is often safer for roughing cuts on a worn manual knee mill, especially where heavy forces are involved. This is because conventional milling keeps the cutting force loaded in one direction against backlash. Climb milling on a loose machine risks the table being pulled forward suddenly."
+  },
+  {
+    "id": 302,
+    "domain": "conventional_milling_machines",
+    "front": "What does backlash mean on a milling machine's table?",
+    "back": "Backlash is looseness in the table lead screw. Conventional milling helps on machines with backlash because the cutting force keeps the screw loaded in one direction. Climb milling on a machine with backlash can let the table suddenly get pulled forward."
+  },
+  {
+    "id": 303,
+    "domain": "conventional_milling_machines",
+    "front": "Cutting speed (SFM)",
+    "back": "Surface feet per minute is how fast the outer edge of the cutter moves through the material. Every material has a recommended SFM range based on its hardness and the cutter material. High speed steel cutting mild steel runs around 80 to 100 SFM, while carbide can run several times faster."
+  },
+  {
+    "id": 304,
+    "domain": "conventional_milling_machines",
+    "front": "What is the formula for spindle speed in RPM?",
+    "back": "RPM equals SFM times 3.82, divided by cutter diameter in inches. This formula converts the recommended surface speed for a material into an actual spindle dial setting. It accounts for the cutter's diameter since larger cutters need lower RPM for the same SFM."
+  },
+  {
+    "id": 305,
+    "domain": "conventional_milling_machines",
+    "front": "Calculate RPM for cutting mild steel at 90 SFM with a half inch high speed steel end mill.",
+    "back": "Using RPM equals SFM times 3.82 divided by diameter, the math is 90 times 3.82 equals 343.8, divided by 0.5 equals 687.6. The machinist rounds to about 690 RPM on the spindle dial. This shows how the formula converts SFM into a practical dial setting."
+  },
+  {
+    "id": 306,
+    "domain": "conventional_milling_machines",
+    "front": "Feed rate (IPM)",
+    "back": "Feed rate is how fast the table moves the work into the cutter, measured in inches per minute. It is calculated as IPM equals RPM times number of flutes times chip load per tooth. Getting this wrong causes tool wear, poor finish, or a broken cutter."
+  },
+  {
+    "id": 307,
+    "domain": "conventional_milling_machines",
+    "front": "Chip load",
+    "back": "Chip load is the thickness of material each tooth removes on a single pass. It is usually a small number like 0.002 to 0.006 inches for a small end mill in steel. Chip load is one of the three values multiplied together to find feed rate in IPM."
+  },
+  {
+    "id": 308,
+    "domain": "conventional_milling_machines",
+    "front": "Calculate feed rate for a 690 RPM cutter, four flutes, and a chip load of 0.003 inches per tooth.",
+    "back": "Using IPM equals RPM times flutes times chip load, the math is 690 times 4 times 0.003, which equals 8.28 IPM. The machinist rounds this to a practical dial setting, commonly 8 IPM. This shows how RPM and chip load combine into a table feed setting."
+  },
+  {
+    "id": 309,
+    "domain": "conventional_milling_machines",
+    "front": "What three values are multiplied to calculate feed rate in IPM?",
+    "back": "Feed rate equals RPM times number of flutes times chip load per tooth. Each factor plays a role, spindle speed, cutter tooth count, and how much material each tooth should remove. Missing any one value makes the feed rate calculation impossible."
+  },
+  {
+    "id": 310,
+    "domain": "conventional_milling_machines",
+    "front": "Roughing pass vs finishing pass",
+    "back": "A roughing pass typically takes a deeper cut at a slower feed to remove material fast. A finishing pass takes a shallow cut, often only a few thousandths of an inch, at a steady feed to leave a smooth surface and hold tight dimensions. A machinist balances depth, width, speed, and feed together for each."
+  },
+  {
+    "id": 311,
+    "domain": "conventional_milling_machines",
+    "front": "Why does pushing depth, width, speed, or feed too far cause a problem?",
+    "back": "Pushing any one of depth of cut, width of cut, speed, or feed too far can overload the cutter or the machine spindle. A machinist balances all four together rather than maximizing just one. This balance protects both tool life and part accuracy."
+  },
+  {
+    "id": 312,
+    "domain": "conventional_milling_machines",
+    "front": "Coolant (cutting fluid)",
+    "back": "Coolant carries heat away from the cutting edge and flushes chips out of the cut. Water soluble coolant is common for general steel work, while cutting oil is often used for tougher materials or slower speed operations like tapping. Choosing the right coolant protects tool life and finish."
+  },
+  {
+    "id": 313,
+    "domain": "conventional_milling_machines",
+    "front": "Why is cast iron often milled dry, with no coolant?",
+    "back": "Cast iron is often run dry since its graphite content acts as a natural lubricant. Coolant can create a gummy paste with the fine cast iron dust instead of helping. Running dry avoids this mess while still cutting cleanly."
+  },
+  {
+    "id": 314,
+    "domain": "conventional_milling_machines",
+    "front": "When is cutting oil typically chosen over water soluble coolant?",
+    "back": "Cutting oil is often used for tougher materials or slower speed operations like tapping. Water soluble coolant is the general choice for common steel work. The material and operation type guide which coolant is correct."
+  },
+  {
+    "id": 315,
+    "domain": "conventional_milling_machines",
+    "front": "Facing",
+    "back": "Facing is the operation of creating a flat surface across the top of a workpiece, usually with a face mill or the end of an end mill. The cutter takes light passes across the full width of the part to true up the surface. A properly faced surface gives an accurate reference plane for every measurement that follows."
+  },
+  {
+    "id": 316,
+    "domain": "conventional_milling_machines",
+    "front": "Why is facing usually done before other features are cut?",
+    "back": "Facing trues up the top surface so it gives an accurate reference plane for every measurement that follows. Without a true, flat starting surface, later depth and location measurements would be unreliable. This makes facing a first step in many jobs."
+  },
+  {
+    "id": 317,
+    "domain": "conventional_milling_machines",
+    "front": "Slot and keyway cutting",
+    "back": "This uses a two-flute end mill or a dedicated woodruff cutter to plunge straight down and then feed sideways to open a channel of a set width and depth. A keyway is a slot cut into a shaft and matching hub so a key can transmit rotation without the parts slipping."
+  },
+  {
+    "id": 318,
+    "domain": "conventional_milling_machines",
+    "front": "Why are keyway tolerances so tight?",
+    "back": "Depth and width tolerances on keyways are tight because a loose key will hammer itself and the slot into scrap over time. A slightly oversized slot lets the key move under load, wearing the surfaces further. Precision here prevents progressive damage."
+  },
+  {
+    "id": 319,
+    "domain": "conventional_milling_machines",
+    "front": "What is a keyway?",
+    "back": "A keyway is a slot cut into a shaft and a matching hub so a key can transmit rotation without the parts slipping. It is typically cut with a two-flute end mill or a woodruff cutter. Tight tolerances on width and depth keep the key from working loose."
+  },
+  {
+    "id": 320,
+    "domain": "conventional_milling_machines",
+    "front": "Pocket milling",
+    "back": "Pocket milling removes material from the inside of a boundary, leaving walls on all sides. It is commonly done by plunging at a starting hole then stepping over in overlapping passes. Direction of cut around the walls, climb versus conventional, needs attention throughout."
+  },
+  {
+    "id": 321,
+    "domain": "conventional_milling_machines",
+    "front": "Profile milling",
+    "back": "Profile milling cuts along the outside boundary of a part, following a programmed or scribed path to create the final outer shape. Like pocket milling, it demands attention to climb versus conventional direction on each wall. The direction can change as the cutter goes around a closed shape."
+  },
+  {
+    "id": 322,
+    "domain": "conventional_milling_machines",
+    "front": "How do pocket milling and profile milling differ?",
+    "back": "Pocket milling removes material from inside a boundary, leaving walls on all sides. Profile milling cuts along the outside boundary to shape the part's outer edge. Both require watching climb versus conventional direction as the cutter travels around the shape."
+  },
+  {
+    "id": 323,
+    "domain": "conventional_milling_machines",
+    "front": "Why does climb versus conventional direction matter on a closed pocket or profile shape?",
+    "back": "As a cutter travels around a closed shape, the direction relative to feed changes on different walls. A cut that is climb milling on one side may become conventional milling on an adjacent side. A machinist must track this to keep finish and safety consistent all the way around."
+  },
+  {
+    "id": 324,
+    "domain": "conventional_milling_machines",
+    "front": "Simple indexing formula",
+    "back": "The formula for turns of the crank per division is 40 divided by the number of divisions wanted. This comes from the standard dividing head's 40 to 1 worm gear ratio. It gives the exact crank turns needed for each equally spaced feature."
+  },
+  {
+    "id": 325,
+    "domain": "conventional_milling_machines",
+    "front": "Calculate crank turns to cut 10 equally spaced flats on a shaft.",
+    "back": "Using 40 divided by the number of divisions, the math is 40 divided by 10, which equals exactly 4 full turns of the crank per flat. No fractional holes are needed since the result is a whole number. This is one of the simplest indexing examples."
+  },
+  {
+    "id": 326,
+    "domain": "conventional_milling_machines",
+    "front": "Calculate crank turns to cut 8 equally spaced divisions.",
+    "back": "Using 40 divided by the number of divisions, the math is 40 divided by 8, which equals 5 full turns per division. This is also a whole number, so no index plate fraction is needed. Whole number results make simple indexing setups the easiest."
+  },
+  {
+    "id": 327,
+    "domain": "conventional_milling_machines",
+    "front": "Calculate crank turns to cut 24 divisions on a gear blank.",
+    "back": "Using 40 divided by 24, the result reduces to 1 and 16 over 24, or 1 and 2 over 3 turns. The machinist turns the crank one full turn plus two thirds of a turn using a plate with a hole circle divisible by three, such as 15 holes, moving 10 holes past the full turn each time."
+  },
+  {
+    "id": 328,
+    "domain": "conventional_milling_machines",
+    "front": "Why does 24 divisions require an index plate with a hole circle divisible by three?",
+    "back": "Dividing 40 by 24 leaves a fraction of two thirds of a turn. To move exactly two thirds of a turn using a hole plate, the number of holes in that circle must divide evenly by three, such as 15 holes. This lets the machinist count out 10 holes past the full turn for the correct fractional move."
+  },
+  {
+    "id": 329,
+    "domain": "conventional_milling_machines",
+    "front": "What ratio does the standard dividing head use and what does it mean?",
+    "back": "The standard dividing head uses a 40 to 1 ratio, meaning 40 turns of the crank rotates the work spindle exactly one full turn. This ratio is the basis of the simple indexing formula, 40 divided by number of divisions. It lets a machinist space features evenly around a circle with precision."
+  },
+  {
+    "id": 330,
+    "domain": "conventional_milling_machines",
+    "front": "What is the quill on a milling machine?",
+    "back": "The quill is the sliding sleeve that lets the spindle move up and down without moving the whole head. It is used when drilling, reaming, and boring on a mill. The quill feeds the tool straight down after the table positions the hole location."
+  },
+  {
+    "id": 331,
+    "domain": "conventional_milling_machines",
+    "front": "How does drilling on a mill achieve tighter position accuracy than a drill press?",
+    "back": "The table's X and Y handwheels position the hole location precisely using a digital readout or dial indicators, then the quill feeds the tool straight down. This method holds tighter position accuracy than a standard drill press because the mill table has finer, more rigid positioning controls."
+  },
+  {
+    "id": 332,
+    "domain": "conventional_milling_machines",
+    "front": "Chatter",
+    "back": "Chatter is a vibration that leaves a wavy pattern on the surface. It is usually caused by a cutter sticking out too far, a dull tool, or the wrong speed and feed. Identifying the root cause is key to eliminating it on the next pass."
+  },
+  {
+    "id": 333,
+    "domain": "conventional_milling_machines",
+    "front": "What commonly causes poor surface finish on a milled part?",
+    "back": "Poor surface finish often traces back to worn cutter edges, wrong feed rate, or lack of coolant causing built up edge on the tool. Each of these can be checked and corrected before the next pass. Coolant especially helps prevent built up edge on softer materials."
+  },
+  {
+    "id": 334,
+    "domain": "conventional_milling_machines",
+    "front": "What can cause dimensional errors on a milled part?",
+    "back": "Dimensional errors can come from backlash in the table screws, a workpiece that shifted during clamping, or a mistake in calculating the coordinates for a hole or feature. A careful machinist always double checks setup and math before running a cut. Each of these causes is preventable with good habits."
+  },
+  {
+    "id": 335,
+    "domain": "conventional_milling_machines",
+    "front": "Digital readout (DRO)",
+    "back": "A DRO shows the exact table position on a small screen connected to glass scales mounted along each axis. It removes the guesswork of counting handwheel turns and dial graduations. It lets a machinist set a zero point at any feature and move directly to the next coordinate with confidence."
+  },
+  {
+    "id": 336,
+    "domain": "conventional_milling_machines",
+    "front": "How do shops without a DRO still track table position?",
+    "back": "Shops without a DRO rely on the same coordinate thinking as one with a DRO, just tracked by hand on a setup sheet instead of a screen. The underlying X, Y, Z coordinate logic does not change. Only the tool used to track position differs."
+  },
+  {
+    "id": 337,
+    "domain": "conventional_milling_machines",
+    "front": "Edge finder",
+    "back": "A spring loaded two piece tool that wobbles off center until it touches the edge of the part, then snaps concentric, giving a precise reference point. It is used to locate the true edge of stock before starting a cut. Skipping this step is a common cause of scrapped parts."
+  },
+  {
+    "id": 338,
+    "domain": "conventional_milling_machines",
+    "front": "What should a machinist check before starting any cut on a mill?",
+    "back": "A machinist checks that the workpiece is square to the table and that the vise or fixture is aligned correctly, often using an edge finder to locate the true edge of the stock. Skipping this step is one of the most common causes of scrapped parts. This check applies to both exam scenarios and real shop work."
+  },
+  {
+    "id": 339,
+    "domain": "conventional_milling_machines",
+    "front": "Tool length offsets and setup sheets",
+    "back": "A machinist notes the exact tool used, the spindle speed, the feed rate, and the depth of cut for each operation, so the job can be repeated correctly if the part needs a rerun. This documentation matters just as much on a manual mill as on a CNC machine. Good habits like this separate a certified journeyperson from an apprentice."
+  },
+  {
+    "id": 340,
+    "domain": "conventional_milling_machines",
+    "front": "Why does documentation matter on a manual mill even though there is no program?",
+    "back": "A machinist still records the exact tool, spindle speed, feed rate, and depth of cut for each operation. This lets the job be repeated correctly if the part needs a rerun. Good documentation habits are part of what separates a certified journeyperson from an apprentice."
+  },
+  {
+    "id": 341,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist plans to cut a wide, flat area across a workpiece on a horizontal mill in one pass. What method fits best?",
+    "back": "Slab milling fits best, using a long cylindrical cutter mounted on an arbor with teeth along its circumference. Horizontal mills excel at this operation because of their rigid arbor support. This removes a large flat area efficiently in a single pass."
+  },
+  {
+    "id": 342,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist needs to plunge straight down to start a slot in steel. Which end mill flute count is the better choice?",
+    "back": "A two-flute end mill is the better choice, since its open flute space and center-meeting flutes let it plunge like a drill. A four-flute end mill does not plunge as well because its flutes do not meet at the center. Once the slot is started, feed continues sideways to the needed length."
+  },
+  {
+    "id": 343,
+    "domain": "conventional_milling_machines",
+    "front": "A part sits directly on the vise floor without parallels. What problem can result?",
+    "back": "The part could rock on chips or debris sitting on the vise bottom. This ruins the accuracy of every cut made afterward. Parallels raise the part and keep its bottom surface parallel to the table to prevent this."
+  },
+  {
+    "id": 344,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist has round stock needing a flat cut on its side. Which work holding fixture centers the round part automatically?",
+    "back": "A V block centers round stock automatically because its V shaped groove naturally centers the cylinder. A clamp on top then holds the part firmly in place. This lets a flat, keyway, or hole be machined accurately on the side."
+  },
+  {
+    "id": 345,
+    "domain": "conventional_milling_machines",
+    "front": "A shop needs to cut gear teeth on a gear blank using a universal mill. What fixture is commonly bolted to the table for this?",
+    "back": "A dividing head is commonly bolted to the universal mill's table for this kind of helical or indexed work. The universal mill's swiveling table also helps angle the setup for gear teeth or flutes. Together they let a machinist cut features that repeat evenly around a circle."
+  },
+  {
+    "id": 346,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist is machining tough alloy steel at a slow speed while tapping. What coolant type fits best?",
+    "back": "Cutting oil fits best for tougher materials or slower speed operations like tapping. Water soluble coolant is the more general choice for common steel work. Choosing the right coolant protects tool edges and finish."
+  },
+  {
+    "id": 347,
+    "domain": "conventional_milling_machines",
+    "front": "A finishing pass on a rigid CNC mill needs the best possible surface finish. Which milling method is normally chosen?",
+    "back": "Climb milling is normally chosen, since it gives better surface finish and longer tool life on rigid modern machines with backlash compensation. The cutting force pulls the work into the cutter, producing a cleaner chip pattern. This is safe because the machine's backlash compensation prevents any sudden table movement."
+  },
+  {
+    "id": 348,
+    "domain": "conventional_milling_machines",
+    "front": "A wavy pattern appears on a milled surface. What is this defect called and what commonly causes it?",
+    "back": "This defect is called chatter, a vibration that leaves a wavy pattern on the surface. It is usually caused by a cutter sticking out too far, a dull tool, or the wrong speed and feed. Correcting the root cause on the next pass removes the wavy pattern."
+  },
+  {
+    "id": 349,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist needs a precision angled surface to bolt an odd-shaped part against, since the part cannot sit flat on the table. What fixture works best?",
+    "back": "An angle plate works best, providing a precision vertical or angled surface to bolt work against. It lets a feature be cut square or at a set angle to a reference face. This solves the problem of a part with no flat face to sit on the table."
+  },
+  {
+    "id": 350,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist needs to cut hex flats evenly spaced around a shaft. What fixture and math approach are used?",
+    "back": "An indexing head, also called a dividing head, is used with the simple indexing formula, 40 divided by number of divisions. For example, 6 flats would use 40 divided by 6, giving 6 and 2 thirds turns of the crank. A hole plate divisible by three lets the fractional turn be counted precisely."
+  },
+  {
+    "id": 351,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist is cutting mild steel with high speed steel tooling. What SFM range is typical, and what does SFM measure?",
+    "back": "High speed steel cutting mild steel runs around 80 to 100 SFM. SFM, surface feet per minute, measures how fast the outer edge of the cutter moves through the material. Carbide tooling can run several times faster than this range."
+  },
+  {
+    "id": 352,
+    "domain": "conventional_milling_machines",
+    "front": "Why is a shell mill holder driven by a key or drive pins instead of just friction?",
+    "back": "Face mills and slab cutters have a center bore instead of a shank, so a key or drive pins transmit the cutting force directly. This avoids relying on friction alone, which could let the cutter slip under heavy load. It gives a much more secure drive for these larger cutters."
+  },
+  {
+    "id": 353,
+    "domain": "conventional_milling_machines",
+    "front": "A part comes out undersized after a job is rerun weeks later on a manual mill. What shop habit prevents this kind of repeat error?",
+    "back": "Keeping a setup sheet with the exact tool, spindle speed, feed rate, and depth of cut for each operation prevents this. The job can then be repeated correctly using the recorded values. Good documentation habits separate a certified journeyperson from an apprentice."
+  },
+  {
+    "id": 354,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist wants to true up the top of a rough casting before cutting any features. What operation should come first?",
+    "back": "Facing should come first, using a face mill or the end of an end mill to true up the surface. Light passes across the full width create an accurate reference plane. Every measurement that follows depends on this flat starting surface."
+  },
+  {
+    "id": 355,
+    "domain": "conventional_milling_machines",
+    "front": "A cutter has a center bore rather than a shank, meant for wide flat surface work. What is this cutter called, and what holds it?",
+    "back": "This is a face mill, a large diameter cutter with multiple insert teeth mounted on the face. It is held in a shell mill holder or arbor, driven by a key or drive pins. Face mills machine wide flat surfaces quickly."
+  },
+  {
+    "id": 356,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist needs to part off a piece of round stock on a mill. What thin rotating cutter fits this task?",
+    "back": "A slitting saw fits this task, a thin, wide-diameter blade used to cut narrow slots or part off material. It works similar in idea to a cutoff tool on a lathe but rotates instead of staying stationary. It is mounted on an arbor for the cut."
+  },
+  {
+    "id": 357,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist notices the table shifted unexpectedly forward while climb milling on an old machine. What is the likely cause?",
+    "back": "The likely cause is backlash, looseness in the table lead screw. In climb milling the cutting force pulls the work into the cutter, and on a loose machine the table can suddenly get pulled forward. This is why worn machines are often run in conventional mode instead."
+  },
+  {
+    "id": 358,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist is boring a hole on a mill instead of a drill press. Why might this give tighter position accuracy?",
+    "back": "The mill table has finer, more rigid positioning controls, using X and Y handwheels with a digital readout or dial indicators. The quill then feeds the tool straight down once the hole location is set precisely. This combination holds tighter accuracy than a standard drill press."
+  },
+  {
+    "id": 359,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist is unsure whether the workpiece is truly square to the table before starting a job. What tool helps confirm the true edge?",
+    "back": "An edge finder helps confirm the true edge. It is a spring loaded two piece tool that wobbles off center until it touches the edge of the part, then snaps concentric to give a precise reference point. Skipping this check is a common cause of scrapped parts."
+  },
+  {
+    "id": 360,
+    "domain": "conventional_milling_machines",
+    "front": "A machinist is deciding between a plain vise, a swivel base vise, and a compound tilting vise for a job with an angled cut in two planes. Which is needed?",
+    "back": "A compound tilting vise is needed, since it tilts in two planes for compound angle work. A plain vise only holds square or flat stock with no rotation. A swivel base vise adds rotation in just the horizontal plane, not enough for a two-plane angle."
+  },
+  {
+    "id": 361,
+    "domain": "precision_grinding_machines",
+    "front": "What makes grinding different from turning or milling?",
+    "back": "A grinding wheel cuts with thousands of tiny abrasive grains acting at once, instead of one defined cutting edge like a lathe or mill tool. This lets a machinist hold tolerances of a few ten thousandths of an inch. It also produces mirror smooth finishes that no other conventional machine tool can match."
+  },
+  {
+    "id": 362,
+    "domain": "precision_grinding_machines",
+    "front": "A wheel is marked A46-K5-V. What does the A stand for?",
+    "back": "The A stands for aluminum oxide abrasive. Aluminum oxide is tough and slightly friable, meaning it fractures a little during use to expose fresh sharp edges. It is the general purpose abrasive for grinding steel and other ferrous metals."
+  },
+  {
+    "id": 363,
+    "domain": "precision_grinding_machines",
+    "front": "What is silicon carbide abrasive best suited for?",
+    "back": "Silicon carbide, marked with the letter C, is harder and sharper than aluminum oxide but more brittle. That makes it better suited to cast iron, brass, aluminum, and other non-ferrous or non-metallic materials. It is not the first choice for grinding steel."
+  },
+  {
+    "id": 364,
+    "domain": "precision_grinding_machines",
+    "front": "How should a machinist choose between diamond and CBN superabrasive wheels?",
+    "back": "Diamond wheels suit carbide tooling, ceramics, and other hard non-ferrous materials, but diamond is generally avoided on ferrous steel since it reacts with iron at grinding temperatures and wears fast. CBN, short for cubic boron nitride, is used on hardened ferrous tool steel above about 60 to 65 on the Rockwell C scale, since it does not share that iron reaction problem. Regular aluminum oxide or silicon carbide wheels cannot cut either material group efficiently."
+  },
+  {
+    "id": 365,
+    "domain": "precision_grinding_machines",
+    "front": "What does a coarse grain size number like 16 to 30 tell you about a wheel?",
+    "back": "A coarse grain size removes stock fast but leaves a rougher finish. It suits rough grinding passes and soft, ductile materials. Fine grain, by contrast, cuts slower but leaves a smoother surface."
+  },
+  {
+    "id": 366,
+    "domain": "precision_grinding_machines",
+    "front": "Grain size rule of thumb for finish passes and hard, brittle materials?",
+    "back": "Fine grain, in the range of 100 to 240, cuts slower but leaves a smoother surface. It suits finish passes and hard, brittle materials. Coarse grain is used earlier for rough removal instead."
+  },
+  {
+    "id": 367,
+    "domain": "precision_grinding_machines",
+    "front": "What does wheel grade describe, and what is the letter scale?",
+    "back": "Grade describes bond strength, meaning how tightly the bond holds the abrasive grains in place. It runs on a letter scale from A, very soft bond, to Z, very hard bond. A soft grade releases dull grains quickly while a hard grade holds grains in place longer."
+  },
+  {
+    "id": 368,
+    "domain": "precision_grinding_machines",
+    "front": "Memory rule for pairing wheel grade with workpiece hardness?",
+    "back": "Hard work needs a soft wheel, and soft work needs a hard wheel. A soft grade wheel releases dull grains quickly on hard workpieces so fresh sharp grains stay exposed. A hard grade wheel holds grains longer, which suits soft workpieces that need the grain to keep cutting instead of falling out too soon."
+  },
+  {
+    "id": 369,
+    "domain": "precision_grinding_machines",
+    "front": "What does wheel structure describe?",
+    "back": "Structure is a number, typically 1 to 16, that describes how tightly or loosely the abrasive grains are packed. It reflects how much open space or air gap sits between grains. A higher number is a more open structure and a lower number is denser."
+  },
+  {
+    "id": 370,
+    "domain": "precision_grinding_machines",
+    "front": "Why would a machinist pick an open structure wheel?",
+    "back": "An open structure wheel, a higher structure number, gives better chip clearance and coolant flow. This helps on soft, gummy materials that tend to clog a wheel. A dense structure wheel instead gives more grains in contact with the work for a finer finish on hard materials."
+  },
+  {
+    "id": 371,
+    "domain": "precision_grinding_machines",
+    "front": "What is vitrified bond, and where is it used?",
+    "back": "Vitrified bond, marked V, is a glass-like ceramic bond that is rigid and heat resistant. It is used on the large majority of precision grinding wheels. Resinoid bond, marked B, is more flexible and better suited to rough or high speed cutoff work instead."
+  },
+  {
+    "id": 372,
+    "domain": "precision_grinding_machines",
+    "front": "List the six parts of the standard wheel marking code in order.",
+    "back": "The six parts in order are abrasive type, grain size, grade, structure, bond type, and manufacturer's record. For example A46-K5-V is aluminum oxide, grain size 46, grade K, structure 5, and a vitrified bond. A machinist is expected to read this code like a sentence."
+  },
+  {
+    "id": 373,
+    "domain": "precision_grinding_machines",
+    "front": "How is a new grinding wheel ring tested before mounting?",
+    "back": "The wheel is tapped gently with a non-metallic mallet while it hangs loosely on a finger or pencil through the bore. A good wheel rings with a clear, bell-like tone. A cracked wheel produces a dull thud instead and must never be mounted or run under any circumstance."
+  },
+  {
+    "id": 374,
+    "domain": "precision_grinding_machines",
+    "front": "What is a blotter used for in wheel mounting?",
+    "back": "A blotter is a thin compressible paper or fiber washer placed between each flange and the wheel face. It spreads clamping pressure evenly across the wheel. This prevents the flange edge from cracking the wheel."
+  },
+  {
+    "id": 375,
+    "domain": "precision_grinding_machines",
+    "front": "How tight should the mounting nut be on a grinding wheel?",
+    "back": "The mounting nut should only be tightened enough to hold the wheel securely on the flanges. Overtightening can crack a vitrified wheel just as easily as a bad drop. The flanges themselves must also be equal in diameter on both sides."
+  },
+  {
+    "id": 376,
+    "domain": "precision_grinding_machines",
+    "front": "What does static balancing a grinding wheel accomplish?",
+    "back": "Static balancing removes uneven weight distribution around the wheel so it spins smoothly without vibration. It is done off the machine using a balancing arbor resting on knife edges or rollers. Small weights are moved in the flange until the wheel stays still in any rotated position."
+  },
+  {
+    "id": 377,
+    "domain": "precision_grinding_machines",
+    "front": "What happens if a grinding wheel is out of balance?",
+    "back": "An out of balance wheel produces chatter marks, poor finish, and accelerated spindle bearing wear. This matters most on precision work where surface quality is critical. Balancing is normally done before the wheel is ever put into service."
+  },
+  {
+    "id": 378,
+    "domain": "precision_grinding_machines",
+    "front": "What is the difference between truing and dressing a grinding wheel?",
+    "back": "Truing means making the wheel face perfectly round and concentric with the spindle axis, or restoring a specific profile shape. Dressing means cleaning and refreshing the cutting surface by breaking away dull grains and bond material to expose fresh abrasive. A single diamond dressing tool often performs both tasks in the same pass."
+  },
+  {
+    "id": 379,
+    "domain": "precision_grinding_machines",
+    "front": "How is a single point diamond dresser angled and used?",
+    "back": "The diamond should be angled about 10 to 15 degrees from perpendicular to the wheel face. It is fed slowly across the moving wheel face by hand or by an automatic dressing cycle. The diamond should also be rotated periodically in its holder so it wears evenly."
+  },
+  {
+    "id": 380,
+    "domain": "precision_grinding_machines",
+    "front": "What happens if a wheel is dressed too aggressively or too lightly?",
+    "back": "Dressing too aggressively wastes wheel material and can leave the wheel too open and rough. Dressing too lightly fails to clear a glazed surface. Both problems show up as poor finish or poor cutting performance on the next pass."
+  },
+  {
+    "id": 381,
+    "domain": "precision_grinding_machines",
+    "front": "Why is a magnetic chuck the common work holding method on a surface grinder?",
+    "back": "A magnetic chuck clamps ferrous, meaning iron-based, workpieces directly to the table using internal magnets, with no mechanical clamps in the way. This leaves the entire top face exposed for grinding. It also applies clamping force evenly across the part."
+  },
+  {
+    "id": 382,
+    "domain": "precision_grinding_machines",
+    "front": "Can a magnetic chuck hold aluminum or brass parts?",
+    "back": "No, non-ferrous materials such as aluminum, brass, or non-magnetic stainless cannot be held on a magnetic chuck. They instead need a vise, fixture, or double sided tape and blocking. Magnetic pull only works on ferrous, iron-based material."
+  },
+  {
+    "id": 383,
+    "domain": "precision_grinding_machines",
+    "front": "Why is cleanliness so important on a magnetic chuck surface?",
+    "back": "The chuck surface must be kept scrupulously clean because even a single grit particle trapped under a workpiece throws off the part's flatness by that same amount. Thin or small parts may also need parallels, blocking, or a fence for extra support. Magnetic pull alone may not resist the sideways force of the grinding wheel on such parts."
+  },
+  {
+    "id": 384,
+    "domain": "precision_grinding_machines",
+    "front": "Why is a ground part demagnetized after grinding?",
+    "back": "Demagnetizing is standard practice because a heavily magnetized part attracts grinding swarf. This interferes with later inspection using precision instruments. It is a routine final step on parts that were held with a magnetic chuck."
+  },
+  {
+    "id": 385,
+    "domain": "precision_grinding_machines",
+    "front": "How does grinding between centers on a cylindrical grinder work?",
+    "back": "Grinding between centers uses the same dead center and live center principle as a lathe. A lathe dog or drive plate turns the part while both ends ride in centers that support it without letting it wobble. This method gives excellent concentricity between diameters and suits shafts needing multiple diameters ground true to each other."
+  },
+  {
+    "id": 386,
+    "domain": "precision_grinding_machines",
+    "front": "When would a collet be chosen over a chuck for cylindrical grinding?",
+    "back": "A collet grips a workpiece around its entire circumference with even pressure. This suits precision round stock where concentricity matters. It also suits situations where repeated loading and unloading needs to be fast and accurate."
+  },
+  {
+    "id": 387,
+    "domain": "precision_grinding_machines",
+    "front": "What is the purpose of a universal fixture on a tool and cutter grinder?",
+    "back": "A universal fixture with an adjustable head holds a cutting tool, such as a lathe bit, end mill, or reamer, at a precise angle relative to the wheel. This grinds the correct clearance and rake angles onto the cutting edge. Getting the fixture angle right is the entire point of the operation, since a tool ground at the wrong angle will not cut properly."
+  },
+  {
+    "id": 388,
+    "domain": "precision_grinding_machines",
+    "front": "On a horizontal spindle surface grinder, what is traverse motion?",
+    "back": "Traverse is the longitudinal travel of the table back and forth under the wheel. The wheel head separately feeds down in small increments, often just a few ten thousandths of an inch per pass, called downfeed or infeed. Cross feed then moves the table sideways between passes so the wheel covers the entire width of the part."
+  },
+  {
+    "id": 389,
+    "domain": "precision_grinding_machines",
+    "front": "What is a spark-out pass in surface grinding?",
+    "back": "A spark-out pass is one or two final passes made with no additional downfeed. It helps remove any remaining deflection in the machine and workpiece. This produces a flatter, more accurate final surface than stopping right after the last downfeed pass."
+  },
+  {
+    "id": 390,
+    "domain": "precision_grinding_machines",
+    "front": "What is the difference between traverse grinding and plunge grinding?",
+    "back": "In traverse grinding, the workpiece rotates on centers while the table moves the part back and forth under the wheel along its length, suiting long parts or a uniform diameter. In plunge grinding, the wheel feeds straight into the rotating workpiece with no longitudinal table travel, cutting a section matching the wheel's width in one motion. Plunge grinding suits short sections, shoulders, or profiles ground with a dressed wheel."
+  },
+  {
+    "id": 391,
+    "domain": "precision_grinding_machines",
+    "front": "Why does internal grinding, or ID grinding, run at very high spindle speeds?",
+    "back": "ID grinding uses a small diameter wheel mounted on a long spindle to grind the inside of a bore. The small wheel diameter needs a much higher rpm to reach proper surface speed. It is also more prone to chatter and heat buildup than OD grinding because the spindle is thinner and less rigid, and coolant delivery inside a bore is harder to control."
+  },
+  {
+    "id": 392,
+    "domain": "precision_grinding_machines",
+    "front": "What is required when sharpening an end mill on a tool and cutter grinder?",
+    "back": "An indexing fixture rotates the cutter a precise amount between each flute. This makes every cutting edge come out identical. It keeps the tool balanced and prevents it from cutting oversize or leaving chatter marks in the finished work."
+  },
+  {
+    "id": 393,
+    "domain": "precision_grinding_machines",
+    "front": "What is honing, and where is it typically used?",
+    "back": "Honing uses abrasive stones on a spring loaded or hydraulically expanding head to remove a very small amount of material. It is most often used on bores and produces a crosshatch pattern on the surface. Honing runs at much lower speed than grinding and is typically the last operation before a bore is finished."
+  },
+  {
+    "id": 394,
+    "domain": "precision_grinding_machines",
+    "front": "Why does the crosshatch pattern from honing matter, beyond looks?",
+    "back": "The crosshatch pattern is not just cosmetic. It helps hold lubricating oil on cylinder walls and bearing bores in service. This makes honing a functional finishing step rather than a purely visual one."
+  },
+  {
+    "id": 395,
+    "domain": "precision_grinding_machines",
+    "front": "Why is flood coolant the standard approach in precision grinding?",
+    "back": "Flood coolant is applied in a continuous steady stream directly at the point where the wheel meets the work. It carries away heat, flushes worn abrasive grains and metal swarf out of the cutting zone, and helps prevent the workpiece from warping due to uneven heating. An interrupted or misdirected coolant stream is a common cause of thermal damage to the part."
+  },
+  {
+    "id": 396,
+    "domain": "precision_grinding_machines",
+    "front": "A ground surface shows bluish or brownish discoloration. What is the problem and what causes it?",
+    "back": "This is burning, meaning the workpiece surface got too hot during grinding and its hardness may have changed in that thin surface layer. Common causes include too heavy a downfeed, a dull or glazed wheel that rubs instead of cutting, insufficient or misdirected coolant, or a wheel grade too hard for the material. All of these prevent the wheel from cutting cleanly and cool."
+  },
+  {
+    "id": 397,
+    "domain": "precision_grinding_machines",
+    "front": "A ground surface shows a repeating wavy or scalloped pattern. What is this and what should be checked first?",
+    "back": "This is chatter, usually caused by vibration somewhere in the machine, wheel, or setup. Common sources include an out of balance wheel, a loose spindle bearing, a workpiece not rigidly held, or a wheel that has gone out of true. The fix always starts with tracking down the actual vibration source rather than just re-dressing the wheel."
+  },
+  {
+    "id": 398,
+    "domain": "precision_grinding_machines",
+    "front": "What is wheel loading, and how is it fixed?",
+    "back": "Wheel loading happens when soft, gummy material such as aluminum or some stainless grades packs into the open spaces between abrasive grains. A loaded wheel looks smeared or discolored on its face and cuts poorly even though the grains underneath are still sharp. The fix is a more open structure wheel, a coarser grain, or better coolant flow to flush chips away."
+  },
+  {
+    "id": 399,
+    "domain": "precision_grinding_machines",
+    "front": "What is wheel glazing, and how is it different from loading?",
+    "back": "Glazing is when the abrasive grains themselves become dull and shiny without necessarily loading up with material, so the wheel rubs instead of cutting and generates excess heat. It typically happens when the wheel grade is too hard for the job, so dull grains stay bonded instead of fracturing away. Correcting glazing means dressing the wheel to expose fresh abrasive, or selecting a softer grade wheel going forward."
+  },
+  {
+    "id": 400,
+    "domain": "precision_grinding_machines",
+    "front": "A cylindrical grinder is producing out of round or tapered work. What should a journeyperson check first?",
+    "back": "Common causes include worn or misaligned centers, a bent workpiece, uneven work holding pressure, or the machine itself being out of alignment between headstock and tailstock centers. Checking centers for wear and verifying alignment with a test bar are standard troubleshooting steps. These checks should be done before assuming the wheel itself is at fault."
+  },
+  {
+    "id": 401,
+    "domain": "cnc_machines",
+    "front": "What does CNC stand for?",
+    "back": "CNC stands for computer numerical control. A computer inside the machine reads a written program and moves the cutting tool exactly where the program tells it to go, instead of a person turning handwheels."
+  },
+  {
+    "id": 402,
+    "domain": "cnc_machines",
+    "front": "What is a block in a CNC program?",
+    "back": "A block is one line of the program. It usually contains a letter address followed by a number, and these letters tell the machine what to do on that line."
+  },
+  {
+    "id": 403,
+    "domain": "cnc_machines",
+    "front": "What is a G-code?",
+    "back": "A G-code is a preparatory code. It sets up how the machine will move or behave for the lines that follow, such as rapid moves, straight cuts, or circular cuts."
+  },
+  {
+    "id": 404,
+    "domain": "cnc_machines",
+    "front": "What is an M-code?",
+    "back": "An M-code is a miscellaneous code that controls the machine itself rather than the path of the tool, such as starting the spindle, turning on coolant, or ending the program."
+  },
+  {
+    "id": 405,
+    "domain": "cnc_machines",
+    "front": "What does G00 do?",
+    "back": "G00 commands rapid traverse. The tool moves quickly to a position with no cutting happening, used to save time getting from one place to another."
+  },
+  {
+    "id": 406,
+    "domain": "cnc_machines",
+    "front": "What does G01 do?",
+    "back": "G01 commands a straight line cut at a controlled feed rate. This is the code used whenever the tool is actually cutting material in a straight path."
+  },
+  {
+    "id": 407,
+    "domain": "cnc_machines",
+    "front": "What does G02 do?",
+    "back": "G02 commands a clockwise circular cut. It is used any time the program needs to cut a curved path that arcs in the clockwise direction."
+  },
+  {
+    "id": 408,
+    "domain": "cnc_machines",
+    "front": "What does G03 do?",
+    "back": "G03 commands a counterclockwise circular cut. It works the same way as G02 but the arc curves in the opposite rotational direction."
+  },
+  {
+    "id": 409,
+    "domain": "cnc_machines",
+    "front": "Do G-codes need to be repeated on every block?",
+    "back": "No. A G-code stays active until a different G-code from the same group cancels it. A program does not need to repeat G01 on every line if the same motion type continues."
+  },
+  {
+    "id": 410,
+    "domain": "cnc_machines",
+    "front": "What does M03 do?",
+    "back": "M03 starts the spindle turning clockwise. It is one of the most common M-codes used near the start of a cutting operation."
+  },
+  {
+    "id": 411,
+    "domain": "cnc_machines",
+    "front": "What does M04 do?",
+    "back": "M04 starts the spindle turning counterclockwise. It is used instead of M03 whenever the job needs the spindle rotating in the opposite direction."
+  },
+  {
+    "id": 412,
+    "domain": "cnc_machines",
+    "front": "What does M05 do?",
+    "back": "M05 stops the spindle. It is commonly used before a tool change or at the end of a cutting sequence."
+  },
+  {
+    "id": 413,
+    "domain": "cnc_machines",
+    "front": "What does M08 do?",
+    "back": "M08 turns on coolant. Coolant helps control heat and clears chips away from the cutting tool and workpiece."
+  },
+  {
+    "id": 414,
+    "domain": "cnc_machines",
+    "front": "What does M09 do?",
+    "back": "M09 turns off coolant. It is typically called right before the spindle stops or the program ends."
+  },
+  {
+    "id": 415,
+    "domain": "cnc_machines",
+    "front": "What does M30 do?",
+    "back": "M30 ends the program and resets the control back to the beginning, so the machine is ready to run the program again from the top."
+  },
+  {
+    "id": 416,
+    "domain": "cnc_machines",
+    "front": "What does the X, Y, or Z address mean in a block?",
+    "back": "X, Y, and Z are axis words that state a position for the tool to move to. They tell the machine where in space that particular axis should end up."
+  },
+  {
+    "id": 417,
+    "domain": "cnc_machines",
+    "front": "What does F mean in a CNC block?",
+    "back": "F sets the feed rate, which is how fast the tool moves while it is actually cutting material."
+  },
+  {
+    "id": 418,
+    "domain": "cnc_machines",
+    "front": "What does S mean in a CNC block?",
+    "back": "S sets the spindle speed, telling the machine how fast to spin the spindle for that operation."
+  },
+  {
+    "id": 419,
+    "domain": "cnc_machines",
+    "front": "What does T mean in a CNC block?",
+    "back": "T selects a tool number, telling the machine which tool from the magazine or turret should be used for the following operation."
+  },
+  {
+    "id": 420,
+    "domain": "cnc_machines",
+    "front": "What is absolute positioning?",
+    "back": "Absolute positioning means every position in the program is measured from one fixed zero point, called the program zero or work zero, no matter where the tool currently sits."
+  },
+  {
+    "id": 421,
+    "domain": "cnc_machines",
+    "front": "Which code turns on absolute positioning mode?",
+    "back": "G90 turns on absolute mode. Once active, every axis value in the program refers back to the same fixed zero point."
+  },
+  {
+    "id": 422,
+    "domain": "cnc_machines",
+    "front": "What is incremental positioning?",
+    "back": "Incremental positioning means each move is measured from the tool's current position rather than from the fixed zero. A command states how far to move, not where to land on the part."
+  },
+  {
+    "id": 423,
+    "domain": "cnc_machines",
+    "front": "Which code turns on incremental positioning mode?",
+    "back": "G91 turns on incremental mode. Every following move is calculated as a distance from wherever the tool currently sits."
+  },
+  {
+    "id": 424,
+    "domain": "cnc_machines",
+    "front": "Why do most shops favor absolute positioning for most of a program?",
+    "back": "Absolute positioning is easier to check and less likely to build up small errors over many blocks, since every position still refers to the same fixed zero point."
+  },
+  {
+    "id": 425,
+    "domain": "cnc_machines",
+    "front": "When is incremental positioning still useful?",
+    "back": "Incremental positioning is useful for repeating patterns, such as a bolt circle, where the same relative move needs to happen over and over from different starting points."
+  },
+  {
+    "id": 426,
+    "domain": "cnc_machines",
+    "front": "In absolute mode, if the target point is X1.000 Z-2.000, what does the block state?",
+    "back": "The block simply states G90 G01 X1.000 Z-2.000, because both numbers are measured straight from the fixed zero point regardless of where the tool currently sits."
+  },
+  {
+    "id": 427,
+    "domain": "cnc_machines",
+    "front": "If a lathe tool starts at X1.500 Z0.000 and must reach X1.000 Z-2.000 using G91, what values are written?",
+    "back": "The block is written as X-0.500 Z-2.000. These are the differences between the start and end points, not the final target itself, since G91 measures from the current position."
+  },
+  {
+    "id": 428,
+    "domain": "cnc_machines",
+    "front": "Why do G91 blocks change every time the starting point changes?",
+    "back": "Because G91 values describe the distance from the tool's current position. If the starting position is different, the same final target requires a different incremental value."
+  },
+  {
+    "id": 429,
+    "domain": "cnc_machines",
+    "front": "Why do G90 blocks for the same final target never change?",
+    "back": "Because G90 values are always measured from the same fixed zero point, so the block describing a given target position stays identical no matter where the tool started."
+  },
+  {
+    "id": 430,
+    "domain": "cnc_machines",
+    "front": "What is the machine coordinate system?",
+    "back": "The machine coordinate system is fixed to the machine itself. Its zero point, called machine home or the reference point, never moves and is set by the machine builder using limit switches."
+  },
+  {
+    "id": 431,
+    "domain": "cnc_machines",
+    "front": "What is the work coordinate system?",
+    "back": "The work coordinate system, also called the part coordinate system, is a zero point the operator sets for each specific job. The program actually measures from this point when it runs."
+  },
+  {
+    "id": 432,
+    "domain": "cnc_machines",
+    "front": "Where is the work zero usually placed?",
+    "back": "The work zero is almost always placed somewhere useful on the part itself, such as the top corner of a block or the face of a turned part."
+  },
+  {
+    "id": 433,
+    "domain": "cnc_machines",
+    "front": "Why does a machine need a work offset instead of just using machine home?",
+    "back": "Without a work offset, the program would have to describe every move from the far away machine home point, which would be impractical and dangerous."
+  },
+  {
+    "id": 434,
+    "domain": "cnc_machines",
+    "front": "What is G54?",
+    "back": "G54 is the most common work offset register used to store the part zero location. When the program calls G54, the control treats the stored X, Y, and Z values as the new zero for every following move."
+  },
+  {
+    "id": 435,
+    "domain": "cnc_machines",
+    "front": "What is the purpose of having G54 through G59?",
+    "back": "G54 through G59 are several offset registers that let an operator store different zero points for different parts or fixtures on the same table without re-touching off every time a job repeats."
+  },
+  {
+    "id": 436,
+    "domain": "cnc_machines",
+    "front": "What is a canned cycle?",
+    "back": "A canned cycle is a pre-built group of motion stored inside the control that handles a common repeated operation with one simple line of code instead of many separate blocks."
+  },
+  {
+    "id": 437,
+    "domain": "cnc_machines",
+    "front": "Give an example of what a drilling canned cycle commands the tool to do.",
+    "back": "A drilling canned cycle can command the tool to rapid down to a starting point above the hole, feed down to a set depth, and rapid back out, all from one command with a depth and feed rate."
+  },
+  {
+    "id": 438,
+    "domain": "cnc_machines",
+    "front": "Name operations that commonly use canned cycles.",
+    "back": "Canned cycles exist for drilling, tapping, peck drilling, boring, and grooving. Using them saves programming time and reduces the chance of leaving out a retract move."
+  },
+  {
+    "id": 439,
+    "domain": "cnc_machines",
+    "front": "What does MDI stand for?",
+    "back": "MDI stands for manual data input. It is a mode where an operator can type in a single line or a few lines of code and run them immediately without loading a full stored program."
+  },
+  {
+    "id": 440,
+    "domain": "cnc_machines",
+    "front": "When would an operator use MDI mode?",
+    "back": "MDI is useful for quick jobs like touching off a tool, testing a spindle speed, or running one simple move to check clearance, without building and saving an entire program file."
+  },
+  {
+    "id": 441,
+    "domain": "cnc_machines",
+    "front": "What does CAM stand for?",
+    "back": "CAM stands for computer aided manufacturing. CAM software reads a part model and automatically generates the G-code and M-code program needed to cut that shape."
+  },
+  {
+    "id": 442,
+    "domain": "cnc_machines",
+    "front": "What does CAD stand for?",
+    "back": "CAD stands for computer aided design. A designer uses CAD software to build a 2D or 3D model of the part before that model is passed into CAM software."
+  },
+  {
+    "id": 443,
+    "domain": "cnc_machines",
+    "front": "Why is CAM software especially valuable for complex 3D shapes?",
+    "back": "Hand calculating every tool path point for a curved surface or a pocket with many features would take far too long and invite mistakes, so CAM software generates the path automatically."
+  },
+  {
+    "id": 444,
+    "domain": "cnc_machines",
+    "front": "Even when CAM software writes a program, why does a machinist still need to read code?",
+    "back": "A machinist still needs to understand the resulting G-code well enough to check it, edit small sections, and catch anything unsafe before running it, since the software cannot be blindly trusted."
+  },
+  {
+    "id": 445,
+    "domain": "cnc_machines",
+    "front": "What is a post processor?",
+    "back": "A post processor is the part of the CAM system that translates the generic tool path into the specific code dialect used by a particular control brand."
+  },
+  {
+    "id": 446,
+    "domain": "cnc_machines",
+    "front": "Why might a program need adjustment when moved to a different machine?",
+    "back": "Not every control reads code exactly the same way, so a program built for one machine's post processor may need adjustment before it runs correctly on a different brand of control."
+  },
+  {
+    "id": 447,
+    "domain": "cnc_machines",
+    "front": "What is a collet chuck?",
+    "back": "A collet chuck is a common tool holder type that works by squeezing a tapered collet around the shank of the tool to grip it firmly and center it on the spindle axis."
+  },
+  {
+    "id": 448,
+    "domain": "cnc_machines",
+    "front": "What are ER collets?",
+    "back": "ER collets are a widely used collet standard, named for their taper design, available in a range of sizes so one collet chuck body can hold many tool shank diameters just by swapping the collet."
+  },
+  {
+    "id": 449,
+    "domain": "cnc_machines",
+    "front": "Why are ER collets popular?",
+    "back": "ER collets are affordable, easy to change, and accurate enough for the great majority of milling and drilling work."
+  },
+  {
+    "id": 450,
+    "domain": "cnc_machines",
+    "front": "How does a shrink fit tool holder grip a tool?",
+    "back": "The holder is heated so the bore expands slightly, the tool shank is inserted, and as the holder cools it shrinks back down and grips the tool with extremely high force and very good concentricity."
+  },
+  {
+    "id": 451,
+    "domain": "cnc_machines",
+    "front": "Why are shrink fit holders chosen for high speed finishing work?",
+    "back": "Shrink fit holders keep runout, meaning any wobble in the spinning tool, to an absolute minimum, which matters most when finishing a surface at high speed."
+  },
+  {
+    "id": 452,
+    "domain": "cnc_machines",
+    "front": "How does a hydraulic tool holder grip a tool?",
+    "back": "A hydraulic holder uses oil pressure inside a sealed chamber around the tool bore. Turning a screw compresses the oil, and the pressure squeezes evenly around the entire tool shank."
+  },
+  {
+    "id": 453,
+    "domain": "cnc_machines",
+    "front": "What advantage does a hydraulic holder have over a collet chuck?",
+    "back": "A hydraulic holder offers excellent vibration damping and very low runout, though it generally costs more than a basic collet chuck. It also does not require a heating unit like a shrink fit holder."
+  },
+  {
+    "id": 454,
+    "domain": "cnc_machines",
+    "front": "What is a tool length offset?",
+    "back": "A tool length offset tells the control how far the tip of a specific tool sticks out from the spindle nose, so the Z axis position stays accurate no matter which tool is currently in the spindle."
+  },
+  {
+    "id": 455,
+    "domain": "cnc_machines",
+    "front": "What is a tool diameter offset, also called cutter compensation?",
+    "back": "Cutter compensation lets the control automatically adjust a tool path sideways to account for the actual radius of the cutter being used, which matters most on tools that wear down with use."
+  },
+  {
+    "id": 456,
+    "domain": "cnc_machines",
+    "front": "Why does every tool in a magazine need its own offset?",
+    "back": "Every tool in a magazine has a slightly different length and sometimes a different diameter, so the control needs a separate offset for each one to stay accurate."
+  },
+  {
+    "id": 457,
+    "domain": "cnc_machines",
+    "front": "What is a tool magazine used for?",
+    "back": "A tool magazine on a milling machine holds multiple tools, each in a numbered pocket, so the machine can automatically change between them during a program without operator help."
+  },
+  {
+    "id": 458,
+    "domain": "cnc_machines",
+    "front": "What is a lathe turret?",
+    "back": "A lathe turret holds a smaller set of turning, facing, grooving, and threading tools arranged around a rotating station that indexes, meaning it rotates, to bring the next needed tool into position."
+  },
+  {
+    "id": 459,
+    "domain": "cnc_machines",
+    "front": "Why does insert shape matter in turning operations?",
+    "back": "Insert shape, such as diamond, triangle, or square, affects how many cutting edges are available on the insert and how well it reaches into corners or grooves."
+  },
+  {
+    "id": 460,
+    "domain": "cnc_machines",
+    "front": "What should a machinist match insert type to?",
+    "back": "A machinist should always match insert type to the workpiece material, the expected cutting speed, and whether the cut is roughing or finishing."
+  },
+  {
+    "id": 461,
+    "domain": "cnc_machines",
+    "front": "What is touching off?",
+    "back": "Touching off is establishing where the part actually sits on the machine, done by moving the tool or a probe until it just contacts a known surface and telling the control that position equals a chosen value in the offset register."
+  },
+  {
+    "id": 462,
+    "domain": "cnc_machines",
+    "front": "Describe a typical Z touch-off step on a milling machine.",
+    "back": "The operator jogs the spindle down until an edge finder or the tool itself just kisses the top of the part, establishing Z zero for the work offset."
+  },
+  {
+    "id": 463,
+    "domain": "cnc_machines",
+    "front": "Describe finding X and Y zero on a milling machine.",
+    "back": "The operator separately touches two edges in X and Y to locate the corner of the part that will serve as the part's zero point in the work offset table."
+  },
+  {
+    "id": 464,
+    "domain": "cnc_machines",
+    "front": "How does touching off usually work on a lathe?",
+    "back": "The operator lightly faces the end of the part and touches the outside diameter, then enters those positions into the offset table so the control knows exactly where the part surfaces are."
+  },
+  {
+    "id": 465,
+    "domain": "cnc_machines",
+    "front": "What does loading a program mean?",
+    "back": "Loading a program means bringing the correct code, whether typed at the control or transferred from a computer or USB drive, into the machine's memory so it is ready to run."
+  },
+  {
+    "id": 466,
+    "domain": "cnc_machines",
+    "front": "Why must a program be verified before running it at full speed?",
+    "back": "A bad program running at full feed and full spindle speed can destroy tooling, ruin the part, or injure someone, so verification catches mistakes before real damage happens."
+  },
+  {
+    "id": 467,
+    "domain": "cnc_machines",
+    "front": "What is single block mode?",
+    "back": "Single block mode is a safety feature that runs only one line of the program at a time, stopping after each block until the operator presses cycle start again."
+  },
+  {
+    "id": 468,
+    "domain": "cnc_machines",
+    "front": "Why is single block mode useful the first time a new program runs?",
+    "back": "It lets the operator watch each individual move happen and confirm it looks correct before allowing the next block to run, catching mistakes one step at a time."
+  },
+  {
+    "id": 469,
+    "domain": "cnc_machines",
+    "front": "What is a dry run?",
+    "back": "A dry run checks the program's motion without actually cutting material, often done with the spindle off, the tool raised above the part, or feed rates overridden down to a safe crawl."
+  },
+  {
+    "id": 470,
+    "domain": "cnc_machines",
+    "front": "What does a dry run let an operator confirm?",
+    "back": "A dry run lets the operator confirm the tool path, the sequence of operations, and any obvious mistakes in the program before committing to a real cut with the tool touching the workpiece."
+  },
+  {
+    "id": 471,
+    "domain": "cnc_machines",
+    "front": "What should an operator do while a program is cutting normally?",
+    "back": "The operator should watch the tool path on screen, listen for unusual sounds, check that coolant is flowing where it should, and keep a hand near feed hold or emergency stop."
+  },
+  {
+    "id": 472,
+    "domain": "cnc_machines",
+    "front": "What do feed rate and spindle speed overrides let an operator do?",
+    "back": "They let an operator slow things down in real time without stopping the whole program, which is useful for testing a new setup carefully."
+  },
+  {
+    "id": 473,
+    "domain": "cnc_machines",
+    "front": "What is an interrupt on a CNC machine?",
+    "back": "An interrupt happens when an operator deliberately pauses a running program, usually with the feed hold button, to check something or clear a problem."
+  },
+  {
+    "id": 474,
+    "domain": "cnc_machines",
+    "front": "What is an alarm on a CNC machine?",
+    "back": "An alarm happens when the control itself detects a fault, such as an axis trying to travel past its limit, a tool overload, a spindle fault, or a missing word in a block."
+  },
+  {
+    "id": 475,
+    "domain": "cnc_machines",
+    "front": "What should a machinist do when an alarm appears?",
+    "back": "The machinist should read the alarm code and message, look it up if needed, and figure out the real cause rather than just clearing the alarm and trying again blindly."
+  },
+  {
+    "id": 476,
+    "domain": "cnc_machines",
+    "front": "Where should basic troubleshooting start after a fault?",
+    "back": "Basic troubleshooting starts with reading the exact alarm text, checking the current position and the block that was executing, and inspecting the tool and part for obvious damage."
+  },
+  {
+    "id": 477,
+    "domain": "cnc_machines",
+    "front": "Name a common cause of CNC program faults involving offsets.",
+    "back": "A wrong tool offset entered into the table, or a work offset that was never set or was set to the wrong surface, are both common causes of a fault or crash."
+  },
+  {
+    "id": 478,
+    "domain": "cnc_machines",
+    "front": "How can a positioning mode mistake cause a crash?",
+    "back": "A program written in the wrong positioning mode, such as G91 left active by mistake when G90 was expected, can send the tool to an unexpected location and cause a crash."
+  },
+  {
+    "id": 479,
+    "domain": "cnc_machines",
+    "front": "Why do most CNC problems trace back to setup rather than machine failure?",
+    "back": "A careful operator retraces the basics, offsets, positioning mode, and feed rate, in order rather than guessing, since most problems come from a simple setup mistake, not a genuine machine failure."
+  },
+  {
+    "id": 480,
+    "domain": "cnc_machines",
+    "front": "What is the safest habit sequence before trusting a new program to run unattended?",
+    "back": "Understand what the code tells the machine to do, confirm the workpiece zero matches what the program expects, run the first cycle in single block or dry run, and stay alert while it cuts."
+  },
+  {
+    "id": 481,
+    "domain": "cnc_machines",
+    "front": "Why can a perfectly written program still crash?",
+    "back": "A perfectly written program still crashes if the work offset was touched off on the wrong face, showing that code, tooling, and offsets all have to work together."
+  },
+  {
+    "id": 482,
+    "domain": "cnc_machines",
+    "front": "Can a great tool holder fix a program written in the wrong positioning mode?",
+    "back": "No. The best tool holder in the shop cannot fix a program written in the wrong positioning mode, since the movement instructions themselves are still wrong."
+  },
+  {
+    "id": 483,
+    "domain": "cnc_machines",
+    "front": "Reading a full CNC block: what does combining axis words and F, S, T tell the machine?",
+    "back": "Combining these words gives one full instruction, for example moving in a straight line to a certain X and Z position at a certain feed rate using a specific tool number."
+  },
+  {
+    "id": 484,
+    "domain": "cnc_machines",
+    "front": "What is program zero?",
+    "back": "Program zero, also called work zero, is the fixed reference point that every absolute position in a G90 program is measured from."
+  },
+  {
+    "id": 485,
+    "domain": "cnc_machines",
+    "front": "What is machine home?",
+    "back": "Machine home, also called the reference point, is the fixed zero point of the machine coordinate system, set by the machine builder using limit switches and never moved afterward."
+  },
+  {
+    "id": 486,
+    "domain": "cnc_machines",
+    "front": "Why is it dangerous to mix up the machine coordinate system and the work coordinate system?",
+    "back": "Mixing up the two systems causes real crashes, since a position meant for one system could send the tool to a completely different and unsafe location in the other."
+  },
+  {
+    "id": 487,
+    "domain": "cnc_machines",
+    "front": "What happens when the control looks up G54 during a program?",
+    "back": "The control looks up the stored X, Y, and Z values in the G54 offset register and treats that location as the new zero for every following move in the program."
+  },
+  {
+    "id": 488,
+    "domain": "cnc_machines",
+    "front": "Give an example canned cycle code mentioned for drilling.",
+    "back": "G81 and G73 style commands are examples of drilling canned cycles, combined with a depth and a feed rate to rapid down, feed to depth, and rapid back out."
+  },
+  {
+    "id": 489,
+    "domain": "cnc_machines",
+    "front": "What is runout?",
+    "back": "Runout is any wobble in the spinning tool. Shrink fit and hydraulic holders are chosen when runout needs to be kept extremely low for accurate, smooth cutting."
+  },
+  {
+    "id": 490,
+    "domain": "cnc_machines",
+    "front": "What does indexing mean on a lathe turret?",
+    "back": "Indexing means the turret rotates to bring the next needed tool into cutting position, allowing the lathe to switch between turning, facing, grooving, and threading tools."
+  },
+  {
+    "id": 491,
+    "domain": "cnc_machines",
+    "front": "Why must a machinist check insert grade and coating for milling?",
+    "back": "Insert grade and coating are chosen based on the material being cut, so matching them correctly affects tool life and cut quality on milling operations."
+  },
+  {
+    "id": 492,
+    "domain": "cnc_machines",
+    "front": "Scenario: an operator forgets to cancel G91 before a G90 program section runs. What can happen?",
+    "back": "The following moves would be measured as distances from the current position instead of from the fixed zero, likely sending the tool to the wrong location and risking a crash."
+  },
+  {
+    "id": 493,
+    "domain": "cnc_machines",
+    "front": "Scenario: a new tool is loaded into the spindle but its length offset was never entered. What happens to Z accuracy?",
+    "back": "The control will not know how far that tool's tip sticks out from the spindle nose, so the Z axis position for that tool will be inaccurate and could cause a crash or a bad cut."
+  },
+  {
+    "id": 494,
+    "domain": "cnc_machines",
+    "front": "Scenario: an operator wants to quickly test a spindle speed without loading a whole program. What mode should they use?",
+    "back": "The operator should use MDI, manual data input, to type in and run a single line or a few lines of code immediately without building a full program file."
+  },
+  {
+    "id": 495,
+    "domain": "cnc_machines",
+    "front": "Scenario: a CAM program runs perfectly on one machine but throws errors on a different brand of control. What is the likely cause?",
+    "back": "The program's post processor was built for the first control's dialect, and it needs adjustment to match the different brand of control before it will run correctly."
+  },
+  {
+    "id": 496,
+    "domain": "cnc_machines",
+    "front": "Scenario: a bolt circle pattern needs the same relative move repeated at several angles. Which positioning mode fits best?",
+    "back": "Incremental positioning using G91 fits best, since each hole position can be described as the same repeating distance from the previous position rather than recalculating an absolute value each time."
+  },
+  {
+    "id": 497,
+    "domain": "cnc_machines",
+    "front": "Scenario: an alarm shows a spindle fault mid-cycle. What should the operator do first?",
+    "back": "The operator should read the exact alarm text and code, check the position and block executing at the time, and inspect the tool and part before restarting anything."
+  },
+  {
+    "id": 498,
+    "domain": "cnc_machines",
+    "front": "Scenario: a first-time program needs to be checked without risking the tool touching the part. What method fits best?",
+    "back": "A dry run fits best, since it checks tool path and sequence with the spindle off or the tool raised above the part, before any real cutting happens."
+  },
+  {
+    "id": 499,
+    "domain": "cnc_machines",
+    "front": "Why does a machinist need to picture G-codes and M-codes happening together when reading a program?",
+    "back": "G-codes describe the tool path while M-codes describe machine actions like spindle and coolant. Reading a program correctly means picturing both happening at the same time in each block."
+  },
+  {
+    "id": 500,
+    "domain": "cnc_machines",
+    "front": "What is the overall discipline that separates a safe CNC machinist from one just pressing cycle start?",
+    "back": "Understanding G-codes, M-codes, positioning modes, offsets, tooling choices, and verification steps together, and always applying them in the safe habit sequence, is what makes CNC operation safe."
+  }
+]
